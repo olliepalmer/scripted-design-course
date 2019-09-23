@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 nav_order: 3
-has_toc: true
+has_toc: false
 ---
 
 Students' research goes here
