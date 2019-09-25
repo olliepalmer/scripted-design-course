@@ -25,8 +25,8 @@ There will be activities, conversations, presentations, feedback, and group work
 
 
 <table>
-  <tr>
-   <td style="background:black;color:white">strong>Class</strong>
+  <tr style="background:black;color:white">
+  <td><strong>Class</strong>
    </td>
    <td><strong>Date</strong>
    </td>
