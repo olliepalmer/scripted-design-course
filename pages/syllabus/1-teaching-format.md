@@ -26,7 +26,7 @@ There will be activities, conversations, presentations, feedback, and group work
 
 <table>
   <tr>
-   <td><strong>Class</strong>
+   <td style="background:black;color:white">strong>Class</strong>
    </td>
    <td><strong>Date</strong>
    </td>
@@ -57,12 +57,12 @@ There will be activities, conversations, presentations, feedback, and group work
    <td>Sensations
    </td>
   </tr>
-  <tr>
+  <tr style="background:#888">
    <td>--
    </td>
    <td>18 Oct 2019
    </td>
-   <td style="background:#888">Break (no teaching)
+   <td>Break (no teaching)
    </td>
   </tr>
   <tr>
@@ -89,12 +89,12 @@ There will be activities, conversations, presentations, feedback, and group work
    <td>Combinations
    </td>
   </tr>
-  <tr>
+  <tr style="background:#888">
    <td>--
    </td>
    <td>15 Nov 2019
    </td>
-   <td style="background:#888">Studium generale (no teaching)
+   <td>Studium generale (no teaching)
    </td>
   </tr>
   <tr>
