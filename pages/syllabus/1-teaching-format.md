@@ -62,7 +62,7 @@ There will be activities, conversations, presentations, feedback, and group work
    </td>
    <td>18 Oct 2019
    </td>
-   <td>Break (no teaching)
+   <td style="background:#888">Break (no teaching)
    </td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@ There will be activities, conversations, presentations, feedback, and group work
    </td>
    <td>15 Nov 2019
    </td>
-   <td>Studium generale (no teaching)
+   <td style="background:#888">Studium generale (no teaching)
    </td>
   </tr>
   <tr>
