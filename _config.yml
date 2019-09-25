@@ -36,6 +36,8 @@ plugins:
 
 footer_content: "Copyright &copy; 2019 Ollie Palmer. Site content distributed under an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license</a>; student work remains their property."
 
+search_enabled: true
+
 
 # additional links at top-right
 # aux_links:
