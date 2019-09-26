@@ -58,110 +58,71 @@ There will be activities, conversations, presentations, feedback, and group work
 
 
 <table>
-  <tr style="bgcolor:black;color:white">
-  <td><strong>Class</strong>
-   </td>
-   <td><strong>Date</strong>
-   </td>
-   <td><strong>Subject</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>01
-   </td>
-   <td>27 Sep 19
-   </td>
-   <td>Introduction
-   </td>
-  </tr>
-  <tr>
-   <td>02
-   </td>
-   <td>04 Oct 2019
-   </td>
-   <td>Sensations
-   </td>
-  </tr>
-  <tr>
-   <td>03
-   </td>
-   <td>11 Oct 2019
-   </td>
-   <td>Sensations
-   </td>
-  </tr>
-  <tr style="bgcolor:#888">
-   <td>--
-   </td>
-   <td>18 Oct 2019
-   </td>
-   <td>Break (no teaching)
-   </td>
-  </tr>
-  <tr>
-   <td>04
-   </td>
-   <td>25 Oct 2019
-   </td>
-   <td>Translations
-   </td>
-  </tr>
-  <tr>
-   <td>05
-   </td>
-   <td>01 Nov 2019
-   </td>
-   <td>Translations
-   </td>
-  </tr>
-  <tr>
-   <td>06
-   </td>
-   <td>08 Nov 2019
-   </td>
-   <td>Combinations
-   </td>
-  </tr>
-  <tr style="bgcolor:#888; color:white">
-   <td>--
-   </td>
-   <td>15 Nov 2019
-   </td>
-   <td>Studium generale (no teaching)
-   </td>
-  </tr>
-  <tr>
-   <td>07
-   </td>
-   <td>22 Nov 2019
-   </td>
-   <td>Combinations
-   </td>
-  </tr>
-  <tr>
-   <td>08
-   </td>
-   <td>29 Nov 2019
-   </td>
-   <td>Combinations
-   </td>
-  </tr>
-  <tr>
-   <td>09
-   </td>
-   <td>06 Dec 2019
-   </td>
-   <td>Assessment
-   </td>
-  </tr>
-  <tr>
-   <td>--
-   </td>
-   <td>17 Dec 2019
-   </td>
-   <td span>Show at V2_
-   </td>
-  </tr>
+    <tr>
+        <td style="background:#000; color:white"><strong>Class</strong></td>
+        <td style="background:#000; color:white"><strong>Date</strong></td>
+        <td style="background:#000; color:white"><strong>Subject</strong></td>
+    </tr>
+    <tr>
+        <td>01</td>
+        <td>27 Sep 19</td>
+        <td>Introduction</td>
+    </tr>
+    <tr>
+        <td>02</td>
+        <td>04 Oct 2019</td>
+        <td>Sensations</td>
+    </tr>
+    <tr>
+        <td>03</td>
+        <td>11 Oct 2019</td>
+        <td>Sensations</td>
+    </tr>
+    <tr>
+        <td style="background:#888; color:#eee">--</td>
+        <td style="background:#888; color:#eee">18 Oct 2019</td>
+        <td style="background:#888; color:#eee">Break (no teaching)</td>
+    </tr>
+    <tr>
+        <td>04</td>
+        <td>25 Oct 2019</td>
+        <td>Translations</td>
+    </tr>
+    <tr>
+        <td>05</td>
+        <td>01 Nov 2019</td>
+        <td>Translations</td>
+    </tr>
+    <tr>
+        <td>06</td>
+        <td>08 Nov 2019</td>
+        <td>Combinations</td>
+    </tr>
+    <tr style="bgcolor:#888; color:white">
+        <td style="background:#888; color:#eee">--</td>
+        <td style="background:#888; color:#eee">15 Nov 2019</td>
+        <td style="background:#888; color:#eee">Studium generale (no teaching)</td>
+    </tr>
+    <tr>
+        <td>07</td>
+        <td>22 Nov 2019</td>
+        <td>Combinations</td>
+    </tr>
+    <tr>
+        <td>08</td>
+        <td>29 Nov 2019</td>
+        <td>Combinations</td>
+    </tr>
+    <tr>
+        <td>09</td>
+        <td>06 Dec 2019</td>
+        <td>Assessment</td>
+    </tr>
+    <tr>
+        <td style="background:#f30; color:#eee">--</td>
+        <td style="background:#f30; color:#eee">17 Dec 2019</td>
+        <td style="background:#f30; color:#eee">Show at V2_</td>
+    </tr>
 </table>
 
 
