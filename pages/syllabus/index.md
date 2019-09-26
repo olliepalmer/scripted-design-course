@@ -3,7 +3,7 @@ layout: page
 title: Module information
 permalink: /about/
 nav_order: 1
-has_children: true
+has_children: false
 ---
 
 
@@ -37,16 +37,15 @@ Throughout the course, students must document their process, present their works
 
 
 
-## Teaching
+## Teaching and participation
 
-Seminars, workshops, studio teaching.
+Seminars, workshops, presentations, and studio teaching.
 
-We meet on Fridays from 13.00-15.00 in the social space. You are expected to attend all classes. If you cannot make it to class please email [om.palmer@avans.nl](mailto:om.palmer@avans.nl) in advance. Failure to attend 2 classes without a valid excuse is grounds for failing the course.
+We meet on Fridays from 13.00-15.00 in the Seminar Room on the third floor. You are expected to attend all classes. If you cannot make it to class please email [om.palmer@avans.nl](mailto:om.palmer@avans.nl) in advance. Failure to attend 2 classes without a valid excuse is grounds for failing the course.
 
-The total time allocated for a 3EC course is 84 hours. This means that you are also expected to carry out around 6-7 hours’ work on your assignments outside of class time. 
+The total time allocated for a 3EC course is 84 hours. This means that in addition to attending classes, you are also expected to carry out around 6-7 hours’ work on your assignments outside of class time. 
 
-There will be activities, conversations, presentations, feedback, and group work in class. Please try to engage with these activities as fully as possible. If for any reason you feel uncomfortable with these activities please let your tutor know.
-
+There will be activities, conversations, presentations, feedback, and group work in class. Please try to engage with these activities as fully as possible. If for any reason you feel uncomfortable with any of these activities please let your tutor know.
 
 
 ------
@@ -155,16 +154,23 @@ If you have a name or pronoun which differs from the one we have on record, plea
 
 If you feel like your performance in the class is being impacted by your experiences outside of class, please speak to Ollie or Rosie. Ollie is also available for individual tutorials on Fridays outside of class for students across MIVC.
 
-
-
-------
+-----
 
 ## Tutor
 
-[Ollie Palmer](https://olliepalmer.com/) is an artist, designer and film-maker whose work critically questions control systems and contemporary use of technology, and takes place across installations, films and performances. Projects often include collaborations with scientists, dancers, and other people outside of his own discipline. From 2015-16 he was [Pavillon artist-in-residence](https://www.palaisdetokyo.com/en/page/ollie-palmer) at the [Palais de Tokyo](https://www.palaisdetokyo.com/), Paris, and his work has been shown internationally (V&A Museum, Seoul Museum of Art, Opera Garnier de Paris). He holds a PhD by Design from the Bartlett School of Architecture entitled ‘Scripted performances: designing performative architectures through digital and absurd machines’, and is alumni of the Bartlett’s [Interactive Architecture Lab](http://www.interactivearchitecture.org/). He has taught at the [School of the Art Institute Chicago](http://www.saic.edu/), [the Bartlett](https://www.ucl.ac.uk/bartlett/), [TU Delft Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment/), and [AKV St Joost](https://www.akvstjoostmasters.nl/programmes/situated-design).
 
-- [om.palmer@avans.nl](mailto:om.palmer@avans.nl)
+This course is taught by Ollie Palmer. 
 
-- [www.olliepalmer.com](file:///Users/o/Documents/github-root/websites/scripted-design-jekyll-site/pages/syllabus/www.olliepalmer.com)
+[Ollie Palmer](https://olliepalmer.com/) is an artist, designer and film-maker whose work critically questions control systems and contemporary use of technology, and takes place across installations, films and performances. Projects often include collaborations with scientists, dancers, and other people outside of his own discipline. From 2015-16 he was [Pavillon artist-in-residence](https://www.palaisdetokyo.com/en/page/ollie-palmer) at the [Palais de Tokyo](https://www.palaisdetokyo.com/), Paris, and his work has been shown internationally (V&A Museum, Seoul Museum of Art, Opera Garnier de Paris). He holds a PhD by Design from the Bartlett School of Architecture entitled ‘Scripted performances: designing performative architectures through digital and absurd machines’, and is alumni of the Bartlett’s [Interactive Architecture Lab](http://www.interactivearchitecture.org/). He has taught at the [School of the Art Institute Chicago](http://www.saic.edu/), [the Bartlett](https://www.ucl.ac.uk/bartlett/), [TU Delft Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment/), and [AKV St Joost](https://www.akvstjoostmasters.nl/programmes/situated-design), where he is Core Tutor on the Sitated Design masters course.
 
-- [@_olliepalmer](https://twitter.com/_olliepalmer)
+### Contact 
+{: .no_toc}
+
+**Ollie Palmer**  
+[om.palmer@avans.nl](mailto:om.palmer@avans.nl) / [www.olliepalmer.com](https://olliepalmer.com) / [@_olliepalmer](https://twitter.com/_olliepalmer)
+
+-----
+
+## Feedback
+
+This course is designed for you! If there is anything that is unclear, anything that could be better organised, or you have any ideas you think might make the course better, please just tell me. 
