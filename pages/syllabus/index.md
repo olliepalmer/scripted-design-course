@@ -3,23 +3,21 @@ layout: page
 title: Module information
 permalink: /about/
 nav_order: 1
-has_toc: true
 has_children: true
 ---
 
 
-
-# Scripted Design
-
+### Table of contents 
+{: .no_toc}
 1. TOC
 {:toc}
 
 
-# Course overview
 
+# Course overview
 ![Still from Network/Intersect (2016), dir. Ollie Palmer](/assets/net-int2.jpg)
 
-> *Still from Network/Intersect (2016), dir. Ollie Palmer*
+> *Still from [Network/Intersect](https://olliepalmer.com/network-intersect) (dir. Ollie Palmer, 2016)*
 
 This course aims to immerse students in the processes and techniques of film-based visual storytelling, whilst introducing students to Oulipian-inspired constrained design processes. 
 
@@ -33,7 +31,7 @@ Throughout the course, students must document their process, present their works
 
 ---
 
-# Course Guidelines
+# Course guidelines
 
 
 
@@ -60,12 +58,12 @@ There will be activities, conversations, presentations, feedback, and group work
 
 
 <table>
-  <tr style="background:black;color:white">
-  <td style="background:black;color:white"><strong>Class</strong>
+  <tr style="bgcolor:black;color:white">
+  <td><strong>Class</strong>
    </td>
-   <td style="background:black;color:white"><strong>Date</strong>
+   <td><strong>Date</strong>
    </td>
-   <td style="background:black;color:white"><strong>Subject</strong>
+   <td><strong>Subject</strong>
    </td>
   </tr>
   <tr>
@@ -92,12 +90,12 @@ There will be activities, conversations, presentations, feedback, and group work
    <td>Sensations
    </td>
   </tr>
-  <tr style="background:#888">
-   <td style="background:#888">--
+  <tr style="bgcolor:#888">
+   <td>--
    </td>
-   <td style="background:#888">18 Oct 2019
+   <td>18 Oct 2019
    </td>
-   <td style="background:#888">Break (no teaching)
+   <td>Break (no teaching)
    </td>
   </tr>
   <tr>
@@ -124,12 +122,12 @@ There will be activities, conversations, presentations, feedback, and group work
    <td>Combinations
    </td>
   </tr>
-  <tr style="background:#888">
-   <td style="background:#888">--
+  <tr style="bgcolor:#888; color:white">
+   <td>--
    </td>
-   <td style="background:#888">15 Nov 2019
+   <td>15 Nov 2019
    </td>
-   <td style="background:#888">Studium generale (no teaching)
+   <td>Studium generale (no teaching)
    </td>
   </tr>
   <tr>
@@ -161,7 +159,7 @@ There will be activities, conversations, presentations, feedback, and group work
    </td>
    <td>17 Dec 2019
    </td>
-   <td>Show at V2_
+   <td span>Show at V2_
    </td>
   </tr>
 </table>

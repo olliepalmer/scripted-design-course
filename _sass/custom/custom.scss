@@ -134,61 +134,26 @@ a:hover {
     -ms-animation: rainbow 0.5s infinite;
     -o-animation: rainbow 0.5s infinite;
     animation: rainbow 0.5s infinite;
-    // background: #e5e5e5;
 }
 
-@-webkit-keyframes rainbow {
-    0% {
-        color: #FF0000;
-    }
+$rdark = #660033;
+$rlite = #FF0000;
 
-    50% {
-        color: #00E82E;
-    }
-
-    100% {
-        color: #FF0000;
-    }
+@-webkit-keyframes rainbow, @-ms-keyframes rainbow, @-o-keyframes rainbow, @keyframes rainbow {
+    0%   { color: $rlite}
+    50%  { color: $rdark}
+    100% { color: $rlite}
 }
 
-@-ms-keyframes rainbow {
-    0% {
-        color: #FF0000;
-    }
-
-    50% {
-        color: #660033;
-    }
-
-    100% {
-        color: #FF0000;
-    }
+@-webkit-keyframes brainbow, @-ms-keyframes brainbow, @-o-keyframes brainbow, @keyframes brainbow {
+    0%   { bgcolor: $rlite}
+    50%  { bgcolor: $rdark}
+    100% { bgcolor: $rlite}
 }
 
-@-o-keyframes rainbow {
-    0% {
-        color: #FF0000;
-    }
-
-    50% {
-        color: #660033;
-    }
-
-    100% {
-        color: #FF0000;
-    }
-}
-
-@keyframes rainbow {
-    0% {
-        color: #FF0000;
-    }
-
-    50% {
-        color: #660033;
-    }
-
-    100% {
-        color: #FF0000;
-    }
+tr.brainbow {
+    -webkit-animation: brainbow 0.5s infinite;
+    -ms-animation: brainbow 0.5s infinite;
+    -o-animation: brainbow 0.5s infinite;
+    animation: brainbow 0.5s infinite;
 }
