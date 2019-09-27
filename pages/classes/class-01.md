@@ -11,7 +11,7 @@ has_children: false
 {: .no_toc}
 
 1. TOC
-   {:toc}
+{:toc}
 
 # Studio assignments
 
