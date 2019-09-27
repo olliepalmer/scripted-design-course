@@ -89,9 +89,9 @@ If you want some ideas for ways to think about shots you can make, watch any of 
 
 Homework this week:
 
-* Daily rules-based videos. Upload these [here](https://forms.gle/k2Excws5CPx5QRrN8) every day.
-* Put your daily rules into the shared [Google Doc](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing)! You can upload a photo of your card too.
-* [Research: Script-based artworks](#assignment-script-based-artworks)
+1. Put your daily rules into the shared [Google Doc](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing)! You can upload a photo of your card too.
+2. Make your daily rules-based videos! 1 per day, 7 days a week. Upload these [here](https://forms.gle/k2Excws5CPx5QRrN8) every day.
+3. 2 x script-based artworks into the shared presentation! See [below](#assignment-script-based-artworks) for more info.
 
 ### Assignment: Script-based artworks
 
