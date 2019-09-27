@@ -17,6 +17,8 @@ has_children: false
 
 ## Activity 1
 
+You will be allocated a card with a word on it. You have ten minutes, working on your own, to make a 1-5 second film which captures the essence of the word. Do not tell anyone else what your word is. The shorter your film is, the better. You can use any film-making technique you want.
+
 Upload your video here:
 
 [j.mp/2ld7wfP](http://j.mp/2ld7wfP){: .btn}
