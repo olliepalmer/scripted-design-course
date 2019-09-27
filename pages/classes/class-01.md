@@ -27,9 +27,8 @@ Make your first name the word. Use your Avans email address.
 
 Check back after class 🤓️
 
-<!--
 
-## Activity 1: Course Rules
+## Activity 2: Course Rules
 
 This course is about creating rules in your work which enable you to be more creative. It is inspired by the Oulipo, who worked with constrained writing techniques.
 
@@ -49,37 +48,10 @@ A course about rules needs some rules. Some of these will be imposed on you (the
 
 * Collectively agreed arbitrary rules. How do we refer to each other? Are we a class, a collective? What is our mission statement?
 * What’s the best way of working? How can we share files?
-  * A big Dropbox?
+  * During class, we collectively decided on a Google Forms submission to an unlimited Google Drive.
   * Agree on naming convention + folder structure for our daily files (e.g. _ollie-daily-2019.09.27.mov_). **This will be important later!**
 * Any other rules?
 
-## Activity 2: Video-making
-
-You will be allocated a card with a word on it. You have ten minutes, working on your own, to make a 1-5 second film which captures the essence of the word. Do not tell anyone else what your word is. The shorter your film is, the better. You can use any film-making technique you want.
-
-Words: gravity / acceleration / explosion / energy / implosion / clarity / transition / multiplication / fast / slow
-
-After 10 minutes:
-
-Upload your video here:
-
-[j.mp/2ld7wfP](http://j.mp/2ld7wfP){: .btn}
-
-Make your first name the word. Use your Avans email address.
-
-_This is a Dropbox file request._
-
-Write a set of instructions that someone else can follow to make the same film you just made. Think about how precise or loose your language is. Do you want them to frame objects in a certain way? Do they need to carry out a certain set of movements? How can you capture these in writing? (5 minutes)
-
-Pass your instructions to the person to your left.
-
-You have ten minutes to make a film by following the instructions you now have.
-
-After 5 minutes:
-
-Upload your video here: [j.mp/2ld7wfP](http://j.mp/2ld7wfP) (make your first name the word, your second name “2”. Use your Avans email address.)
-
-Presentation of films, 1 then 2. Discussion: which instructions worked? Which films worked?
 
 ## Activity 3: Rules-based video
 
@@ -91,7 +63,7 @@ Write your instructions on a credit-card-sized card. Carry this in your wallet. 
 
 Your videos will not be perfect. You must be at peace with this. Your daily videos must not use any post-production, besides trimming clips so that they conform to the time standards.
 
-You will have made 70 short videos by the end of this course. At the end of the course you will combine these videos into a composition which shows a logical ordering of information.
+You will have made more than 70 short videos by the end of this course. At the end of the course you will combine these videos into a composition which shows a logical ordering of information.
 
 We will make our rules now and test them so you can be happy with this way of working. You’ll finalise your rules before the end of class.
 
@@ -99,32 +71,33 @@ As a guide, this exercise should take no more than 10 minutes each day. If you c
 
 A few sample rules:
 
-* _Each film will depict a single thin straight line running horizontally through its centre_
-* _Each film will depict a single, unbroken lateral 360º movement of the environment I am in a 12.36pm_
-* _Each film will depict a transition through a doorway_
-* _Each film will show me engaging with a mechanism_
-* _Each film will depict a balloon bursting in a new context  _
-* _Each film will show an unbroken shot of the back of someone’s head for five seconds_
-* _I am going to film the sky for one second at the same time every day_
-* _I am going to make a timelapse of drawing blindfolded, filmed from above_
-* _I am going to film a new orange object falling from my desk every day_
-* _I am going to film pouring a new drink every day_
-* _I am going to screw a piece of paper into a new ball every day; the camera position will always be the same_
-  \-->
+- _Make a film depicting a single thin straight line running horizontally through its centre._
+
+* _At 12.36pm, stand up. Make a film depicting a single, unbroken lateral 360º movement of the environment you are in._
+* _Walk through a doorway. Film the transition from your waist._
+* _Depict a hand interfacing with a mechanism._
+* _Depict an unbroken shot of the back of someone’s head for five seconds._
+* _Film the sky for one second at the same time every day._
+* _Make a timelapse of drawing blindfolded, filmed from above._
+* _Film a new orange object falling from your desk every day._
+* _Pour coffee in a new and elaborate way. Film it._
+* _Screw a piece of paper into a new ball every day; the camera position will always be the same._
+
+If you want some ideas for ways to think about shots you can make, watch any of the [Every Frame a Painting](https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A) video series, look at some photography books...think about rules that frame **subjects**, **actions**, or **composition**
 
 # Homework assignments
 
 Homework this week:
 
-* Daily rules-based videos. Upload these every day.
-* Put your daily rules into the [Google Doc](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing)! You can upload a photo of your card too.
+* Daily rules-based videos. Upload these [here](https://forms.gle/k2Excws5CPx5QRrN8) every day.
+* Put your daily rules into the shared [Google Doc](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing)! You can upload a photo of your card too.
 * [Research: Script-based artworks](#assignment-script-based-artworks)
 
 ### Assignment: Script-based artworks
 
 Along with our daily videos, we will build a compendium of rules-based artworks across all media. This will be done in Google Slides, a platform where we can all collaborate on one big document.
 
-You must find and describe two rules-based artworks. These can be performances, writing, paintings, sculptures, films, manifestos, games, or anything else you can think of. The rules can be something that creates a work of art, or rules themselves.
+You must find and describe **two** rules-based artworks. These can be performances, writing, paintings, sculptures, films, manifestos, games, or anything else you can think of. The rules can be something that creates a work of art, or rules themselves.
 
 Make sure you check that nobody else is covering the same subject. Write it on a new slide in the Google Slides document as soon as you have an idea.
 
@@ -135,3 +108,15 @@ As you’re looking for works, ask yourself:
 * How are the rules presented? Do the rules themselves form part of the work?
 
 You can contribute here: [http://bit.ly/constrained-artworks](http://bit.ly/constrained-artworks)
+
+
+
+## Homework links
+
+
+
+[Define your rules](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing){: .btn} 
+
+[Find and describe 2 script-based artworks](http://bit.ly/constrained-artworks){: .btn}
+
+[Upload your daily videos](https://forms.gle/k2Excws5CPx5QRrN8){: .btn}
