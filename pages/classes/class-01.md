@@ -7,7 +7,6 @@ has_children: false
 
 ---
 # Class 01 | 27 Sep 2019
-
 {: .no_toc}
 
 1. TOC
