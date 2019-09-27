@@ -16,7 +16,13 @@ has_children: false
 
 # Studio assignments
 
-## Not online yet!
+## Activity 1
+
+Upload your video here:
+
+[j.mp/2ld7wfP](http://j.mp/2ld7wfP){: .btn}
+
+Make your first name the word. Use your Avans email address.
 
 <!--
 ## Activity 1: Course Rules
@@ -56,7 +62,11 @@ Words: gravity / acceleration / explosion / energy / implosion / clarity / trans
 
 After 10 minutes:
 
-Upload your video here: [j.mp/2ld7wfP](http://j.mp/2ld7wfP) (make your first name the word, your second name “1”. Use your Avans email address.)
+Upload your video here:
+
+[j.mp/2ld7wfP](http://j.mp/2ld7wfP){: .btn}
+
+Make your first name the word. Use your Avans email address.
 
 _This is a Dropbox file request._
 
