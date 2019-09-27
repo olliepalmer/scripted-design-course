@@ -124,5 +124,3 @@ A few sample rules:
 - _Screw a piece of paper into a new ball every day; the camera position will always be the same._
 
 If you want some ideas for ways to think about shots you can make, watch any of the [Every Frame a Painting](https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A) video series, look at some photography books...think about rules that frame **subjects**, **actions**, or **composition**
-
-# 
