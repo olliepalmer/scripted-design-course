@@ -12,42 +12,6 @@ has_children: false
 1. TOC
 {:toc}
 
-# Homework assignments
-
-Homework this week:
-
-1. Put your daily rules into the shared [Google Doc](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing)! You can upload a photo of your card too. [See here for guidance](#activity-3-rules-for-your-daily-film)!
-2. Make your daily rules-based videos! 1 per day, 7 days a week. Upload these [here](https://forms.gle/k2Excws5CPx5QRrN8) every day. 
-3. 2 x script-based artworks into the shared presentation! See [below](#assignment-script-based-artworks) for more info.
-
-### Assignment: Script-based artworks
-
-Along with our daily videos, we will build a compendium of rules-based artworks across all media. This will be done in Google Slides, a platform where we can all collaborate on one big document.
-
-You must find and describe **two** rules-based artworks. These can be performances, writing, paintings, sculptures, films, manifestos, games, or anything else you can think of. The rules can be something that creates a work of art, or rules themselves.
-
-Make sure you check that nobody else is covering the same subject. Write it on a new slide in the Google Slides document as soon as you have an idea.
-
-As you’re looking for works, ask yourself:
-
-* What rules are there?
-* What are the rules for? Do they aid creation? When are they used?
-* How are the rules presented? Do the rules themselves form part of the work?
-
-You can contribute here: [http://bit.ly/constrained-artworks](http://bit.ly/constrained-artworks)
-
-
-
-## Homework links
-
-
-
-[Define your daily film-making rules](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing){: .btn} 
-
-[Find and describe 2 script-based artworks](http://bit.ly/constrained-artworks){: .btn}
-
-[Upload your daily videos](https://forms.gle/k2Excws5CPx5QRrN8){: .btn}
-
 
 
 
@@ -124,3 +88,42 @@ A few sample rules:
 - _Screw a piece of paper into a new ball every day; the camera position will always be the same._
 
 If you want some ideas for ways to think about shots you can make, watch any of the [Every Frame a Painting](https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A) video series, look at some photography books...think about rules that frame **subjects**, **actions**, or **composition**
+
+----
+
+# Homework assignments
+
+Homework this week:
+
+1. Put your daily rules into the shared [Google Doc](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing)! You can upload a photo of your card too. [See here for guidance](#activity-3-rules-for-your-daily-film)!
+2. Make your daily rules-based videos! 1 per day, 7 days a week. Upload these [here](https://forms.gle/k2Excws5CPx5QRrN8) every day. 
+3. 2 x script-based artworks into the shared presentation! See [below](#assignment-script-based-artworks) for more info.
+
+### Assignment: Script-based artworks
+
+Along with our daily videos, we will build a compendium of rules-based artworks across all media. This will be done in Google Slides, a platform where we can all collaborate on one big document.
+
+You must find and describe **two** rules-based artworks. These can be performances, writing, paintings, sculptures, films, manifestos, games, or anything else you can think of. The rules can be something that creates a work of art, or rules themselves.
+
+Make sure you check that nobody else is covering the same subject. Write it on a new slide in the Google Slides document as soon as you have an idea.
+
+As you’re looking for works, ask yourself:
+
+- What rules are there?
+- What are the rules for? Do they aid creation? When are they used?
+- How are the rules presented? Do the rules themselves form part of the work?
+
+You can contribute here: [http://bit.ly/constrained-artworks](http://bit.ly/constrained-artworks)
+
+
+
+## Homework links
+
+
+
+[Define your daily film-making rules](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing){: .btn} 
+
+[Find and describe 2 script-based artworks](http://bit.ly/constrained-artworks){: .btn}
+
+[Upload your daily videos](https://forms.gle/k2Excws5CPx5QRrN8){: .btn}
+

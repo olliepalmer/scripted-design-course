@@ -47,7 +47,6 @@ The total time allocated for a 3EC course is 84 hours. This means that in additi
 
 There will be activities, conversations, presentations, feedback, and group work in class. Please try to engage with these activities as fully as possible. If for any reason you feel uncomfortable with any of these activities please let your tutor know.
 
-
 ------
 
 
@@ -64,7 +63,7 @@ There will be activities, conversations, presentations, feedback, and group work
     </tr>
     <tr>
         <td>01</td>
-        <td>27 Sep 19</td>
+        <td>27 Sep 2019</td>
         <td>Introduction</td>
     </tr>
     <tr>

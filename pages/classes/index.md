@@ -9,4 +9,8 @@ has_children: true
 
 # Classes
 
-## Info to go here
+## This course consists of ten lessons, and runs from 27 September until 06 December 2019. 
+
+
+
+## Classes are posted here shortly after they happen.
