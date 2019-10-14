@@ -82,30 +82,43 @@ We'll use this idea in the next exercise!
 
 
 
+----
+
+
+
 
 
 ## Assignment: Translations
 
 This exercise will form the basis of the film you will make over the next 3 weeks.
 
-### Instructions
+### Cut a film scene
 
-- Identify a scene in a film with a moment of 'exchange' – an exchange of information, an exchange of goods, etc. 
-  - Your scene should be 20-60 seconds long. 
-  - It will be useful later if you can find the script for the scene! Lots of scripts are online ([look here](https://www.nyfa.edu/student-resources/10-great-websites-download-movie-scripts/)).
-- Download the scene to your computer.
-- Using DaVinci Resolve or Adobe Premiere, cut the scene into individual shots. [There are really detailed instructions here](class-03-premiere-instructions.html).
-- Analyse each of the shots. Ask yourself:
-  - What type of shot is it? Hand-held? Tripod? Close-up? Establishing? Panning? [Here is a guide to film shots](https://www.careersinfilm.com/types-of-shots-in-film/).
-  - How are actors positioned relative to each other and the camera?
-  - What is in-frame and what isn't?
--  Make an A1 poster of your scene analysis. This must include:
+Identify a scene in a film with a moment of 'exchange' – an exchange of information, an exchange of goods, etc. Your scene should be 20-60 seconds long. You can choose any film you like, but note that It will be useful later if you can find the script for the scene! Lots of scripts are online ([look here](https://www.nyfa.edu/student-resources/10-great-websites-download-movie-scripts/)).
+
+Download the scene to your computer. Using DaVinci Resolve or Adobe Premiere, cut the scene into individual shots. [There are really detailed instructions here](class-03-premiere-instructions.html).
+
+Analyse each of the shots. Ask yourself:
+- What type of shot is it? Hand-held? Tripod? Close-up? Establishing? Panning? [Here is a guide to film shots](https://www.careersinfilm.com/types-of-shots-in-film/).
+- How are actors positioned relative to each other and the camera?
+- What is in-frame and what isn't?
+
+[Detailed film cutting instructions](class-03-premiere-instructions.html){: .btn .btn-purple}
+
+### Diagram a film scene
+
+Make an A1 poster of your film scene analysis. Think about how you can create a system for visually diagramming what is going on in the scene. You can include screenshots, illustrations, diagrams, anything you think is relevant. Your poster must include at least:
+
   - A time-based breakdown of all of the shots
-  - The script (dialogue, directions)
+  - The script (dialogue, directions for actors/camera movements/etc)
   - Short description of characters, motivations
   - A spatial diagram of the set depicting movement of characters, cameras, etc
 
-### [Detailed film cutting instructions](class-03-premiere-instructions.html)
+You do not have to print your poster; I will send you an upload link later next week. **Your poster must be made in a vector-based format (Illustrator, InDesign, etc) NOT PHOTOSHOP!**
+
+
+
+
 
 -----
 
