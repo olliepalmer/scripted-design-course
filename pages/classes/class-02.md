@@ -114,7 +114,7 @@ You must upload your film to [this link](https://forms.gle/rDUoqhYimtVrCp1f6) be
 [Upload your film here](https://forms.gle/rDUoqhYimtVrCp1f6){: .btn .btn-blue}
 
 
-## Assignment: daily videos
+## Assignment: Daily videos
 
 Don't forget to also make your daily [rules-based videos](../classes/class-01.html#activity-3-rules-for-your-daily-film)! 
 
