@@ -2,7 +2,8 @@
 layout: page
 title: Cutting films
 parent: Class 03
-has_toc: true
+grand_parent: Classes
+has_toc: false
 has_children: false
 
 ---
@@ -11,7 +12,7 @@ has_children: false
 
 ## Downloading films
 
-You should be able to figure this out. Go to YouTube and search for the scene you want to download. Google '[how to download from youtube](https://www.google.com/search?q=how+to+download+from+youtube&oq=how+to+download+from+youtube)' and do it. 
+You should be able to figure this out. Go to YouTube and search for the scene you want to download. Google '[how to download from youtube](https://www.google.com/search?q=how+to+download+from+youtube&oq=how+to+download+from+youtube)' and do it.
 
 ## Cutting scenes
 
