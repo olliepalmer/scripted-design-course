@@ -14,17 +14,11 @@ has_children: true
 
 ----
 
-
-
-
-
 # Assignments
-
-
 
 ## Assignment: Translations
 
-This exercise will form the basis of the film you will make over the next 3 weeks.
+This exercise will form the basis of the film you will make over the next 3 weeks. The deadline for this part (cutting a film, making a poster) is **before** next class.
 
 ### Cut a film scene
 
@@ -49,10 +43,6 @@ Make an A1 poster of your film scene analysis. Think about how you can create a 
   - A spatial diagram of the set depicting movement of characters, cameras, etc
 
 You do not have to print your poster; I will send you an upload link later next week. **Your poster must be made in a vector-based format (Illustrator, InDesign, etc) NOT PHOTOSHOP!**
-
-
-
-
 
 -----
 
