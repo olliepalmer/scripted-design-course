@@ -122,4 +122,4 @@ The role of this exercise is that you can think about:
 
 We'll use this idea in the next exercise!
 
-Note: This exercise is adapted from Tim Clare's excellent writing advice podcast, Death of 1000 Cuts (specifically, Season 1's [Couch to 80k Writing Bootcamp, Week 6 Day 5](https://soundcloud.com/timclare/death-of-1000-cuts-couch-to-80k-week-6-day-5)).
+Note: This exercise is adapted from Tim Clare's excellent writing advice podcast, Death of 1000 Cuts (specifically, Season 1's [Couch to 80k Writing Bootcamp, Week 6 Day 5](https://soundcloud.com/timclare/death-of-1000-cuts-couch-to-80k-week-6-day-5)). It worked much better on the podcast.
