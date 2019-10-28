@@ -38,18 +38,26 @@ nav_order: 6
 
 
 
-- *Oulipo* compendia Mathews, Harry, Alastair Brotchie, and Raymond Queneau, eds. *Oulipo Compendium*. Array. London : Los Angeles: Atlas Press ; Make Now Press, 2005.
-- Gallix, Andrew. ‘Oulipo: Freeing Literature by Tightening Its Rules’. Newspaper. *The Guardian: Books* (blog), 12 July 2013. https://www.theguardian.com/books/booksblog/2013/jul/12/oulipo-freeing-literature-tightening-rules.
-- Johannes Langkamp’s *video sketch* series (http://joway.eu/index.php/projects-art/everydayonevideo-2011/
-- *The Five Obstructions*, dir. Lars Von Trier, 2005. http://www.imdb.com/title/tt0354575/x
-- Brian Eno, *Oblique Strategies*
-- Stuart Candy & FutureLab, *The Thing from the Future*
-- Michel Gondry (director)
-- Chris Cunningham (director)
-- Van Niestat (director)
-- Tom Sachs Studio work (*Ten Bullets*/films about constraint)
-- Jaques Le Coq, *Seven Levels of Tension* (as creative constraint/mood to convey)
-- Tim Clare's [Couch to 80k Bootcamp](https://soundcloud.com/timclare/sets/couch-to-80k-writing-boot-camp) - a great set of exercises to start creative writing, also useful for artists and designers. They only take 20 minutes per day!
+- **Oulipo Compendium**  
+  Harry Mathews, Alastair Brotchie, and Raymond Queneau, eds. Array. London / Los Angeles: Atlas Press; Make Now Press, 2005.
+- [Oulipo: Freeing Literature by Tightening Its Rules](https://www.theguardian.com/books/booksblog/2013/jul/12/oulipo-freeing-literature-tightening-rules). Andrew Gallix.  Newspaper. *The Guardian: Books* (blog), 12 July 2013.
+- **[Video sketch series](http://joway.eu/index.php/projects-art/everydayonevideo-2011/)**  
+  Johannes Langkamp, 2011
+- **[The Five Obstructions](http://www.imdb.com/title/tt0354575/x)* *
+  dir. Lars Von Trier, 2005.
+- **[Oblique Strategies](http://www.rtqe.net/ObliqueStrategies/)**  
+  Brian Eno, Peter Schmidt
+- **[The Thing from the Future](https://situationlab.org/project/the-thing-from-the-future/)**  
+  Stuart Candy & James Watson ([Situation Lab](https://situationlab.org))
+- [The Work of Director Michel Gondry](https://www.imdb.com/title/tt0384700/) (2003)
+- [The Work of Director Chris Cunningham](https://www.imdb.com/title/tt0386123/?ref_=fn_al_tt_1) (2003)
+- **The work of [Van Niestat](https://vimeo.com/vanneistat)** (director)
+- **[Ten Bullets film series](http://tenbullets.com)**
+  Tom Sachs, dir. Van Niestat
+- **[Seven Levels of Tension](https://dramaresource.com/seven-levels-of-tension/)**
+  Jaques Le Coq - describing intensity of scenes
+- **Tim Clare's [Couch to 80k Bootcamp](https://soundcloud.com/timclare/sets/couch-to-80k-writing-boot-camp)**
+  A great set of exercises to start creative writing, also useful for artists and designers. They only take 20 minutes per day!
 
 ## Movie prompt generator
 
