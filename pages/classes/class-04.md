@@ -103,6 +103,7 @@ If you are struggling with this exercise, the following podcast by Ross Sutherla
 
 If you are really struglling with this exercise in any way, please [email me](mailto:om.palmer@avans.nl).
 
+[Upload your new and old film clips here](https://forms.gle/7TcV2zxLwqxRZ7sL8){: .btn .btn-purple}
 
 -----
 
