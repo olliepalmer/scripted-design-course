@@ -27,6 +27,6 @@ If you just want the syllabus content, go straight to the [pages](/pages) folder
 
 ## License
 
-This syllabus has an MIT licence - please feel free to use it in your own teaching or creative practice. 
+This syllabus has an [MIT licence](https://choosealicense.com/licenses/mit/) please feel free to use it in your own teaching or creative practice. All featured student work remains their copyright, and will be clearly marked as such. If you adapt the course to your own needs, please let me know! I'd love to talk about what worked and didn't, and how I can make this better for students and teachers. I'm hoping that making the course open source others will improve upon my work and make it their own.
 
 Thanks to all of the Oulipians and writers who inspired this course. Tim Clare's [Couch to 80k Writing Bootcamp](http://www.timclarepoet.co.uk/couchto80kwritingbootcamp) was an excellent and highly enjoyable writing course, and has also morphed into an interesting interview series for anyone vaguely interested in writing or creative work. Ross Sutherland's [Imaginary Advice](https://www.imaginaryadvice.com) features a couple of times on this website, and I can't recommend listening to it enough.
