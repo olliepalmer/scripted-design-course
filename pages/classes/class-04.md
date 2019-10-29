@@ -93,7 +93,7 @@ Once you have a subject and genre, work together to write a scene from a film wi
 
 Please document your process well, with a script, drawings, photos of the process, etc.
 
-There will be a link to upload your film, as well as your source scene next week.
+[Upload your film scene here](https://forms.gle/7TcV2zxLwqxRZ7sL8){: .btn .btn-purple}
 
 #### Extra help
 
@@ -103,7 +103,6 @@ If you are struggling with this exercise, the following podcast by Ross Sutherla
 
 If you are really struglling with this exercise in any way, please [email me](mailto:om.palmer@avans.nl).
 
-[Upload your new and old film clips here](https://forms.gle/7TcV2zxLwqxRZ7sL8){: .btn .btn-purple}
 
 -----
 
