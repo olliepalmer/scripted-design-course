@@ -95,6 +95,7 @@ Please document your process well, with a script, drawings, photos of the proces
 
 [Upload your film scene here](https://forms.gle/7TcV2zxLwqxRZ7sL8){: .btn .btn-purple}
 
+
 #### Extra help
 
 If you are struggling with this exercise, the following podcast by Ross Sutherland might help. Like Raymond Queneau's [Exercises in Style](https://monoskop.org/images/4/49/Queneau_Raymond_Exercises_in_Style_pp_1-26.pdf) (which we discussed in the second class), it takes a potentially mundane autobiographical story and re-tells it in several different styles. [Imaginary Advice](https://www.imaginaryadvice.com) [#47: Me Versus the Spar](https://soundcloud.com/ross-sutherland/47-me-versus-the-spar-parts-1-to-7)
