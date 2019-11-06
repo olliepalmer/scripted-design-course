@@ -62,3 +62,7 @@ nav_order: 6
 ## Movie prompt generator
 
 [Movie prompt generator](https://movieprompt.olliepalmer.com){: .btn}
+
+## Graphic design
+
+[Graphic design presentation](../assets/graphics-101.pdf){: .btn .btn_purple}
