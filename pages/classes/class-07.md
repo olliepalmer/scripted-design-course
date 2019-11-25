@@ -15,7 +15,7 @@ draft: true
 
 ----
 
-# In Class
+# Class activities
 
 This was the last full class for this course! Next week we'll just have individual tutorials. Keep an eye on your inbox for
 
