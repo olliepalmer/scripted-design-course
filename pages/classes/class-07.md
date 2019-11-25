@@ -30,8 +30,9 @@ In class, we ran peer-to-peer speed-feedback sessions so that the wisdom of the 
   - Make sure to write the feedback down! There will be some great ideas that you might forget.
 - Keep running sessions until everyone has had feedback from 5 people.
 
-PERSON A: SHOW WORK | PERSON B: GIVE FEEDBACK |  PERSON B: SHOW WORK | PERSON A: GIVE FEEDBACK
+PERSON A  | PERSON B  |  PERSON B | PERSON A
 --|--|--|--
+SHOW WORK  |  GIVE FEEDBACK | SHOW WORK  | GIVE FEEDBACK 
 ⏲️ 2 mins  | ⏲️ 3 mins   | ⏲️ 2 mins  | ⏲️ 3 mins
 
 ----
