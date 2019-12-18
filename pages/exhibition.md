@@ -8,7 +8,7 @@ has_children: false
 
 ---
 
-{:toc}
+
 
 # Exhibition
 
