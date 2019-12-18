@@ -14,7 +14,7 @@ has_children: false
 
 The work of the students from this course was exhibited at V2\_ Lab of the Unstable Media on 17 December 2019 in an exhibition entitled ['Landscape Mode'](https://v2.nl/events/film-exhibition-landscape-mode-1) (named after the first constraint used on the course). The exhibition was curated by [Bregje Horsten](https://www.bregjehorsten.com), Yusuf Deniz, and [Leonardo Landoni](https://www.leonardolandoni.com).
 
-<video width="100%">
+<video autoplay loop width="100%">
   <source src="/assets/landscapemode.mp4" type="video/mp4">
   Sorry, your browser doesn't support embedded videos.
 </video>
