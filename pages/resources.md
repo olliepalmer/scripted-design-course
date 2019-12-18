@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 has_toc: true
-nav_order: 6
+nav_order: 5
 ---
 
 
@@ -27,7 +27,8 @@ nav_order: 6
 - **DaVinci Resolve**  
   Mac/Windows/Linux (free), professional-grade video editing suite
   [blackmagicdesign.com/products/davinciresolve](https://www.blackmagicdesign.com/products/davinciresolve)
-
+- **FFmpeg**  
+  All computer platforms (free). A Swiss Army knife for formatting, splicing, converting video and audio files. Works via the command-line interface (e.g. Terminal on Mac) but is incredibly powerful. Want to split audio and video? Make a long video from lots of short videos? Extract all of the frames from a film? Use FFmpeg. [ffmpeg.org](https://www.ffmpeg.org)
 
 
 

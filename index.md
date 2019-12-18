@@ -27,6 +27,6 @@ title: Scripted Design
 
 This course is open-source, so anybody is free to take the content and use it in their own practice. Students retain ownership and copyright of their own work.
 
-Students' work will be shown at [V2_ Institute for the Unstable Media](https://v2.nl) on 17 December 2019.
+Students' work was shown at [V2_ Institute for the Unstable Media](https://v2.nl/events/film-exhibition-landscape-mode-1) in the exhibition 'Landscape Mode' (curated by Bregje Horsten, Yusuf Deniz, and Leonardo Landini) on 17 December 2019.
 
 [Practical information](/about/){: .btn .btn-blue .mr-2} [Student research](/research/){: .btn .mr-2} [Resources + references](/resources/){: .btn}
