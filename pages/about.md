@@ -27,7 +27,7 @@ The students make a series of these extremely short films both in class and in t
 
 Later this same process is expanded; students work in small groups to devise rules, and write, produce, and edit short films of increased length which combine multiple subjects. Students devise a set of rules which will inform every decision they make throughout the scripting, shooting, and editing process.
 
-Throughout the course, students must document their process, present their works-in-progress, and provide feedback to peers about processes used. The course culminates in a public screening party of all films made during the course.
+Throughout the course, students must document their process, present their works-in-progress, and provide feedback to peers about processes used. The course culminates in a [public screening party](https://v2.nl/events/film-exhibition-landscape-mode-1) of all films made during the course.
 
 ---
 
