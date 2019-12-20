@@ -19,7 +19,9 @@ The work of the students from this course was exhibited at V2\_ Lab of the Unsta
   Sorry, your browser doesn't support embedded videos.
 </video>
 
-'LANDSCAPE MODE’ is a collective Film exhibition from the Master Institute of Visual Cultures, AKV\|St. Joost that will exhibit the output of a rule-based filming of moments that took place in the last 70 days. "How can I film a different running subject every day?" and "How do I capture myself brushing my teeth every day in a different way?" are some of the personal questions that needed a daily answer while considering only one initial rule: "Keep it LANDSCAPE MODE"
+**LANDSCAPE MODE** is a collective Film exhibition from the Master Institute of Visual Cultures, AKV\|St. Joost that will exhibit the output of a rule-based filming of moments that took place in the last 70 days.
+
+_"How can I film a different running subject every day?"_ and _"How do I capture myself brushing my teeth every day in a different way?"_ are some of the personal questions that needed a daily answer while considering only one initial rule: _"Keep it **LANDSCAPE MODE**"_
 
 ----
 
