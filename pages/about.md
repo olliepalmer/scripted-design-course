@@ -119,7 +119,7 @@ There will be activities, conversations, presentations, feedback, and group work
     <tr>
         <td style="background:#f30; color:#eee">--</td>
         <td style="background:#f30; color:#eee">17 Dec 2019</td>
-        <td style="background:#f30; color:#eee"><a href="https://v2.nl/events/film-exhibition-landscape-mode-1" target="\_blank">Show at V2\_</a></td>
+        <td style="background:#f30; color:#eee"><a href="https://v2.nl/events/film-exhibition-landscape-mode-1" target="\_blank">Show at V2_</a></td>
     </tr>
 </table>
 
