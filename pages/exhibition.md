@@ -102,7 +102,7 @@ Nick is a first year masters student at the Master Institute of Visual Cultures 
 ## Soha Asadi: Today's gonna be a good day!
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ffhjRqc-tYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DOQmEsqDmW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 _How my day is gonna be like?_
