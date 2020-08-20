@@ -152,6 +152,24 @@ If you feel like your performance in the class is being impacted by your experie
 
 -----
 
+## Assessment criteria
+
+You will be assessed at the end of the course on the following:
+
+- *1 film or mixed-media presentation consisting of your 'daily videos'* _40%_  
+Student has produced a high quality film or mixed-media presentation demonstrating that they have:
+  -	followed the procedure of making at least one rules-based video per day, leading to a body of work to draw from  
+  -	curated and assembled this body of work into a coherent film or mixed-media presentation which shows the breadth and variety of their videos.  
+The presentation will show the films in a mode which is appropriate for their subject matter, with a visual coherence and editing suitable for the content.
+
+- *2-3 short experimental ‘sketch’ films, made individually / in groups* _40%_
+You can demonstrate that you have followed rules laid out in class, or self-created rules, to create 2-3 experimental ‘sketch’ films to a high standard, with care and attention given to the genre, subject, editing, and mis-en-scene of the films.
+
+- *Documentation and description of process, to be presented in graphic and verbal format. This presentation is the means by which the students’ understanding of the module’s content and their own work within it.* _20%_  
+You are able to present a structured and logical overview of their work, and the processes, methods, and theories you have used to create their work, as well as critical reflections on your own practice. The presentation should utilise appropriate audiovisual methods (for example a Powerpoint presentation, a scripted performance, etc) to deliver its message.
+
+-----
+
 ## Tutor
 
 
