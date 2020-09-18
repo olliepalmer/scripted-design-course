@@ -116,10 +116,22 @@ footer .site-footer p {
   background-color: $orangeutan !important;
 }
 
-a:hover {
+.main-content a:hover {
   color: $orangeutan !important;
   background: white !important;
-  padding: 3px 0px 3px 0px;
+  // padding: 3px 0px 3px 0px;
+}
+
+a.button {
+  background: white !important;
+  color: $orangeutan !important;
+  padding: 10px !important;
+}
+
+a.button:hover {
+  background: $greygoose !important;
+  color: white !important;
+  transition: transform 0.2s;
 }
 
 .navigation-list-child-list .navigation-list-link {
