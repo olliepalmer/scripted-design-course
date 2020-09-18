@@ -3,8 +3,10 @@
 //
 // stylelint-disable primer/selector-no-utility, primer/no-override, selector-no-type, selector-max-type
 
+
 h1,
 .text-alpha {
+  // font-family: 'Monofur';
   @include fs-8;
   font-weight: 300;
 }

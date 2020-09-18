@@ -2,154 +2,33 @@
 //// Typography
 ////
 
-//$body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+// $body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
 //$mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
 //$root-font-size: 16px;         // Base font-size for rems
 //$body-line-height: 1.4;
 //$content-line-height: 1.5;
 //$body-heading-line-height: 1.15;
 
-////
-//// Colors
-////
-
-//$white: #fff;
-
-//$grey-dk-000: #959396;
-//$grey-dk-100: #5c5962;
-//$grey-dk-200: #44434d;
-//$grey-dk-250: #302d36;
-//$grey-dk-300: #27262b;
-
-//$grey-lt-000: #f5f6fa;
-//$grey-lt-100: #eeebee;
-//$grey-lt-200: #ecebed;
-//$grey-lt-300: #e6e1e8;
-
-//$purple-000: #7253ed;
-//$purple-100: #5e41d0;
-//$purple-200: #4e26af;
-//$purple-300: #381885;
-
-//$blue-000: #2c84fa;
-//$blue-100: #2869e6;
-//$blue-200: #264caf;
-//$blue-300: #183385;
-
-//$green-000: #41d693;
-//$green-100: #11b584;
-//$green-200: #009c7b;
-//$green-300: #026e57;
-
-//$yellow-000: #ffeb82;
-//$yellow-100: #fadf50;
-//$yellow-200: #f7d12e;
-//$yellow-300: #e7af06;
-
-//$red-000: #f77e7e;
-//$red-100: #f96e65;
-//$red-200: #e94c4c;
-//$red-300: #dd2e2e;
-
-//$body-background-color: $white;
-//$sidebar-color: $grey-lt-000;
-//$search-background-color: $white;
-//$table-background-color: $white;
-//$code-background-color: $grey-lt-000;
-
-//$body-text-color: $grey-dk-100;
-//$body-heading-color: $grey-dk-300;
-//$search-result-preview-color: $grey-dk-000;
-//$nav-child-link-color: $grey-dk-100;
-//$link-color: $purple-000;
+// colour palette
+$orangeutan: #FF784F;
+$greygoose: #494949;
+$clear-white: rgba(255,255,255,0.5);
+$grey-dk-000: black;
+$grey-dk-100: $orangeutan; // bold pink
+$grey-lt-000: $greygoose;
+$search-background-color: $orangeutan !important;
+$body-text-color: white;
+$nav-child-link-color: $grey-dk-100;
+$link-color: $grey-dk-100;
 $link-color: $grey-dk-300;
-//$btn-primary-color: $purple-100;
-//$base-button-color: #f7f7f7;
-
-////
-//// Spacing
-////
-
-//$spacing-unit: 1rem; // 1rem == 16px
-
-//$spacers: (
-//sp-0: 0,
-//sp-1: $spacing-unit * 0.25,
-//sp-2: $spacing-unit * 0.5,
-//sp-3: $spacing-unit * 0.75,
-//sp-4: $spacing-unit,
-//sp-5: $spacing-unit * 1.5,
-//sp-6: $spacing-unit * 2,
-//sp-7: $spacing-unit * 2.5,
-//sp-8: $spacing-unit * 3,
-//sp-9: $spacing-unit * 3.5,
-//sp-10: $spacing-unit * 4
-//);
-
-//$sp-1: map-get($spacers, sp-1); // 0.25 rem == 4px
-//$sp-2: map-get($spacers, sp-2); // 0.5  rem == 8px
-//$sp-3: map-get($spacers, sp-3); // 0.75 rem == 12px
-//$sp-4: map-get($spacers, sp-4); // 1    rem == 16px
-//$sp-5: map-get($spacers, sp-5); // 1.5  rem == 24px
-//$sp-6: map-get($spacers, sp-6); // 2    rem == 32px
-//$sp-7: map-get($spacers, sp-7); // 2.5  rem == 40px
-//$sp-8: map-get($spacers, sp-8); // 3    rem == 48px
-//$sp-9: map-get($spacers, sp-9); // 4    rem == 48px
-//$sp-10: map-get($spacers, sp-10); // 4.5  rem == 48px
-
-////
-//// Borders
-////
-
-//$border: 1px solid;
-//$border-radius: 4px;
-//$border-color: $grey-lt-100;
-
-////
-//// Grid system
-////
-
-//$gutter-spacing: $sp-6;
-//$gutter-spacing-sm: $sp-4;
-//$nav-width: 264px;
-//$nav-width-md: 248px;
-//$content-width: 800px;
-//$header-height: 60px;
-//$search-results-width: 500px;
-
-////
-//// Media queries in pixels
-////
-
-//$media-queries: (
-//xs: 320px,
-//sm: 500px,
-//md: $content-width,
-//lg: $content-width + $nav-width,
-//xl: 1400px
-//);
-
-a:hover {
-    -webkit-animation: rainbow 0.5s infinite;
-    -ms-animation: rainbow 0.5s infinite;
-    -o-animation: rainbow 0.5s infinite;
-    animation: rainbow 0.5s infinite;
-}
-
+$border: 0px solid;
 $rdark :#660033;
 $rlite: #FF0000;
 
 
-@-webkit-keyframes rainbow, @-ms-keyframes rainbow, @-o-keyframes rainbow, @keyframes rainbow {
-    0%   { color: $rlite}
-    50%  { color: $rdark}
-    100% { color: $rlite}
-}
-
-@-webkit-keyframes brainbow, @-ms-keyframes brainbow, @-o-keyframes brainbow, @keyframes brainbow {
-    0%   { bgcolor: $rlite}
-    50%  { bgcolor: $rdark}
-    100% { bgcolor: $rlite}
+body {
+  background-color: $orangeutan !important;
+  color: white !important;
 }
 
 .videoWrapper {
@@ -164,4 +43,274 @@ $rlite: #FF0000;
 	left: 0;
 	width: 100%;
 	height: 100%;
+}
+
+@font-face {
+  font-family: 'manrope';
+  src: url('/assets/fonts/Manrope-Regular.woff2') format('woff2'),
+       url('/assets/fonts/monofur_for_powerline-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  background-color: $orangeutan;
+}
+
+h1, h2, h3, h4, h5, h6, .site-header {
+  font-family: 'manrope',-apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+  // letter-spacing: 0.2em;
+  color: white !important;
+  text-align: left;
+}
+
+
+li.breadcrumb-nav-list-item a, .page-content a, .breadcrumb-nav-list-item::after {
+  color: white !important;
+}
+
+
+
+.page-content .anchor-heading svg {
+  fill: white;
+}
+
+h1:after {
+    position: absolute;
+    height: 6px;
+    margin: 0 auto;
+    content: '';
+    left: 0;
+    right: 0;
+    background-color: $grey-dk-100;
+    left: 0;
+    bottom: -0.5em;
+    // content: "";
+    // display: block;
+    // height: 30px;
+    // background-image: url('/assets/hr3.svg');
+    // background-repeat: repeat-x;
+    // background-position: center bottom;
+}
+
+h1 {
+  text-align: left;
+}
+h1.home:after {
+  height:0px;
+}
+
+
+.side-bar {
+  background: $greygoose !important;
+}
+.site-footer {
+  color: white;
+}
+
+footer .site-footer p {
+  color: white;
+}
+
+.page-header, .page-header.nav-open {
+  background-color: $orangeutan !important;
+}
+
+a:hover {
+  color: $orangeutan !important;
+  background: white !important;
+  padding: 3px 0px 3px 0px;
+}
+
+.navigation-list-child-list .navigation-list-link {
+  color: white !important;
+}
+
+.site-header a {
+  color: white !important;
+  background-color: $greygoose !important;
+}
+
+.caption {
+  font-size: 0.8em;
+  text-align: left;
+}
+
+hr {
+  display: inline-block;
+  // margin: none !important;
+  height: 2em !important;
+  width: 2em !important;
+  // padding: 100px;
+  background-color: $body-background-color !important;
+  background-image: url("/assets/hr2.svg");
+  background-size: cover;
+  padding: 0;
+  border: 0;
+  align: left !important;
+  animation: rotation 4s infinite linear;
+  background-color: transparent !important;
+  margin-top: 2em !important;
+  margin-bottom: 2em !important;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+
+a:not([class]) {
+    text-decoration: none;
+    background-image: linear-gradient($clear-white 0%, $clear-white 100%) !important;
+    background-repeat: repeat-x;
+    background-position: 0 100%;
+    background-size: 1px 2px;
+  }
+
+.main-content a:hover {
+  color: $orangeutan !important;
+  background-color: white;
+}
+
+::selection {
+  background-color: $greygoose !important;
+  color:white;
+}
+
+.page-content ol > li::before, .page-content ul > li::before {
+  color: $clear-white !important;
+}
+
+h2 {
+  padding: 2em 0 1em 0;
+}
+
+h3 {
+  font-size: 2em;
+  margin-top: 2em !important;
+  margin-bottom: 2em !important;
+}
+
+h3:after {
+    position: absolute;
+    height: 3px;
+    margin: 0 auto;
+    content: '';
+    left: 0;
+    right: 0;
+    color: #000;
+    background-color: $grey-dk-100;
+    left: 0;
+    bottom: -0.5em; /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+}
+
+@media print {
+  hr {
+    display: none;
+  }
+}
+
+.button a {
+  padding: 10px;
+  background: white;
+  color: $orangeutan !important;
+}
+
+.button a:hover {
+  padding: 100px;
+  background-color: $orangeutan;
+  color: white;
+}
+
+footer {
+  color: white;
+}
+
+footer p {
+  color:white !important;
+}
+
+p.text-small.text-grey-dk-000.mb-0,
+p.text-small.text-grey-dk-000.mb-0 a {
+  color: white !important;
+}
+
+p.text-small.text-grey-dk-000.mb-0 a:hover {
+  color: white !important;
+}
+
+.search-icon {
+  fill: $greygoose !important;
+}
+.search-results-wrap::placeholder {
+}
+
+input.js-search-input.search-input::placeholder {
+  color: pink;
+}
+
+
+// animated cursor etc
+span {
+  border-right: .5em solid #FF784F;
+  animation: caret 0.8s steps(1) infinite;
+}
+
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
+}
+
+
+// image masks - from https://cssduotone.com/
+
+:root {
+  --base:              #ff784f;
+  --bg-blend:          screen;
+  --blur:              0px;
+  --fg-blend:          darken;
+  --foreground:        #ffffff;
+  --opacity:           1;
+  --spacing:           0px;
+}
+.img-wrapper {
+  background-color:    var(--base);
+  display:             flex;
+  flex:                1 1 100%;
+  height:              100%;
+  overflow:            hidden;
+  padding:             var(--spacing);
+  position:            relative;
+}
+
+.img-wrapper img {
+  filter:              grayscale(100%) contrast(1) blur(var(--blur));
+  flex:                1 0 100%;
+  height:              100%;
+  max-width:           100%;
+  mix-blend-mode:      var(--bg-blend);
+  object-fit:          cover;
+  opacity:             var(--opacity);
+  position:            relative;
+  width:               100%;
+}
+
+.img-wrapper::before {
+  background-color:    var(--foreground);
+  bottom:              0;
+  content:             '';
+  height:              100%;
+  left:                0;
+  mix-blend-mode:      var(--fg-blend);
+  position:            absolute;
+  right:               0;
+  top:                 0;
+  width:               100%;
+  z-index:             1;
 }

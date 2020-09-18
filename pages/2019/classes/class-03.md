@@ -4,6 +4,8 @@ title: Class 03
 parent: Classes
 has_toc: true
 has_children: true
+grand_parent: 2019
+
 
 ---
 # Class 03 | 11 Oct 2019
@@ -31,7 +33,7 @@ Analyse each of the shots. Ask yourself:
 - How are actors positioned relative to each other and the camera?
 - What is in-frame and what isn't?
 
-[Detailed film cutting instructions](class-03-premiere-instructions.html){: .btn .btn-purple}
+[Detailed film cutting instructions](class-03-premiere-instructions.html){: .button .button-purple}
 
 ### Diagram a film scene
 
@@ -52,7 +54,7 @@ Don't forget to also make your daily [rules-based videos](../classes/class-01.ht
 
 ⏱️ *Pro tip: bookmark the form on your phone and you can upload in seconds.*
 
-[Upload daily videos here](https://forms.gle/k2Excws5CPx5QRrN8){: .btn .btn-purple}
+[Upload daily videos here](https://forms.gle/k2Excws5CPx5QRrN8){: .button .button-purple}
 
 ----
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+parent: 2019
 permalink: /resources/
 has_toc: true
 nav_order: 5
@@ -62,8 +63,8 @@ nav_order: 5
 
 ## Movie prompt generator
 
-[Movie prompt generator](https://movieprompt.olliepalmer.com){: .btn}
+[Movie prompt generator](https://movieprompt.olliepalmer.com){: .button}
 
 ## Graphic design
 
-[Graphic design presentation](../assets/graphics-101.pdf){: .btn .btn_purple}
+[Graphic design presentation](../assets/graphics-101.pdf){: .button .button_purple}

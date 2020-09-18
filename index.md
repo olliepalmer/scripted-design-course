@@ -4,29 +4,23 @@
 
 layout: home
 title: Scripted Design
+has_toc: false
 ---
 
 
-
-
-
-![](/assets/net-int1.jpg)
-
-
-
-# Welcome to Scripted Design
-
-## 27 Sep - 06 Dec 2019
-{: .no_toc}
-
+# Welcome to Scripted Design 2020
 ## A 10-week course at the Masters Institute of Visual Cultures at AKV St Joost, open for students of Situated Design, Visual Culture, and Ecological Futures
-{: .no_toc}
 
-### This is the course website with all of the course documentation, exercises, etc. New activities will be uploaded each week, and we'll upload a lot of our work here.
-{: .no_toc}
+<div class="img-wrapper">
+<img src="/assets/net-int1.jpg">
+</div>
 
-This course is open-source, so anybody is free to take the content and use it in their own practice. Students retain ownership and copyright of their own work.
 
-Students' work was shown at [V2_ Institute for the Unstable Media](https://v2.nl/events/film-exhibition-landscape-mode-1) in the exhibition 'Landscape Mode' (curated by Bregje Horsten, Yusuf Deniz, and Leonardo Landini) on 17 December 2019.
+## This is the course website with all of the course documentation, exercises, etc. New activities will be uploaded each week, and we'll upload a lot of our work here.
 
-[Practical information](/about/){: .btn .btn-blue .mr-2} [Student research](/research/){: .btn .mr-2} [Resources + references](/resources/){: .btn} [Exhibition](/exhibition/){: .btn .mr-2}
+
+This course is open access and open source, so anybody is free to take the content and use it in their own practice. Students retain ownership and copyright of their own work.
+
+New content is coming soon. Watch this space!
+
+Last years' course is available [here](/2019), and the student-curated exhibition is available [here]()

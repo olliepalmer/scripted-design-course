@@ -5,6 +5,8 @@ parent: Classes
 has_toc: false
 has_children: true
 draft: true
+grand_parent: 2019
+
 
 ---
 # Class 05 | 01 Nov 2019
@@ -157,7 +159,7 @@ Your films must also follow the following rules:
 - Your films must embody the essence of their subjects – the audience should be able to _feel_ the subject  
 - Your films must have a story arc (beginning/middle/end)
 
-[Upload your films here](https://forms.gle/5Vc1MiMvwSVNykB19){: .btn .btn_purple}
+[Upload your films here](https://forms.gle/5Vc1MiMvwSVNykB19){: .button .button_purple}
 
 ----
 
@@ -166,4 +168,4 @@ Your films must also follow the following rules:
 
 Don't forget to keep uploading your daily videos!
 
-[Upload daily videos here](https://forms.gle/k2Excws5CPx5QRrN8){: .btn .btn-purple}
+[Upload daily videos here](https://forms.gle/k2Excws5CPx5QRrN8){: .button .button-purple}

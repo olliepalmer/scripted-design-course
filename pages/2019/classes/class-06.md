@@ -5,6 +5,8 @@ parent: Classes
 has_toc: false
 has_children: true
 draft: true
+grand_parent: 2019
+
 
 ---
 # Class 06 | 08 Nov 2019
@@ -47,7 +49,7 @@ You'll need to show a draft by the next class – please let me know if you're p
 
 Don't forget to keep uploading your daily videos!
 
-[Upload daily videos](https://forms.gle/k2Excws5CPx5QRrN8){: .btn .btn-purple}
+[Upload daily videos](https://forms.gle/k2Excws5CPx5QRrN8){: .button .button-purple}
 
 ----
 
@@ -74,7 +76,7 @@ Constraints:
 
 You can download a PDF of the _Graphic design (or, how I learned to stop worrying and love the grid)_ presentation here:
 
-[Graphic design presentation](../../assets/graphics-101.pdf){: .btn .btn_purple}
+[Graphic design presentation](../../assets/graphics-101.pdf){: .button .button_purple}
 
 <!---
 
@@ -99,4 +101,4 @@ Your films must also follow the following rules:
 
 Don't forget to keep uploading your daily videos!
 
-[Upload daily videos here](https://forms.gle/k2Excws5CPx5QRrN8){: .btn .btn-purple} -->
+[Upload daily videos here](https://forms.gle/k2Excws5CPx5QRrN8){: .button .button-purple} -->

@@ -20,6 +20,7 @@
   display: flex;
   flex-wrap: wrap;
   background-color: $sidebar-color;
+  background: $grey-dk-100; /*url('/assets/bgd.svg');*/
 
   @include mq(md) {
     flex-wrap: nowrap;
@@ -170,7 +171,7 @@
   height: 100%;
   padding: $gutter-spacing-sm;
   align-items: center;
-  color: $link-color;
+  color: white;
   text-transform: uppercase;
   background: transparent;
   border: 0;

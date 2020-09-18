@@ -4,6 +4,8 @@ title: Class 01
 parent: Classes
 has_toc: true
 has_children: false
+grand_parent: 2019
+
 
 ---
 # Class 01 | 27 Sep 2019
@@ -29,7 +31,7 @@ You will be allocated a card with a word on it. You have ten minutes, working on
 
 Upload your video here:
 
-[Activity 1 upload](http://j.mp/2ld7wfP){: .btn}
+[Activity 1 upload](http://j.mp/2ld7wfP){: .button}
 
 Make your first name the word. Use your Avans email address.
 
@@ -96,7 +98,7 @@ If you want some ideas for ways to think about shots you can make, watch any of 
 Homework this week:
 
 1. Put your daily rules into the shared [Google Doc](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing)! You can upload a photo of your card too. [See here for guidance](#activity-3-rules-for-your-daily-film)!
-2. Make your daily rules-based videos! 1 per day, 7 days a week. Upload these [here](https://forms.gle/k2Excws5CPx5QRrN8) every day. 
+2. Make your daily rules-based videos! 1 per day, 7 days a week. Upload these [here](https://forms.gle/k2Excws5CPx5QRrN8) every day.
 3. 2 x script-based artworks into the shared presentation! See [below](#assignment-script-based-artworks) for more info.
 
 ### Assignment: Script-based artworks
@@ -121,9 +123,8 @@ You can contribute here: [http://bit.ly/constrained-artworks](http://bit.ly/cons
 
 
 
-[Define your daily film-making rules](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing){: .btn} 
+[Define your daily film-making rules](https://docs.google.com/document/d/1-7oXTFJ9Phh1xanO6zaeC3hghGAFVKeIkASXCuLEsS4/edit?usp=sharing){: .button}
 
-[Find and describe 2 script-based artworks](http://bit.ly/constrained-artworks){: .btn}
+[Find and describe 2 script-based artworks](http://bit.ly/constrained-artworks){: .button}
 
-[Upload your daily videos](https://forms.gle/k2Excws5CPx5QRrN8){: .btn}
-
+[Upload your daily videos](https://forms.gle/k2Excws5CPx5QRrN8){: .button}

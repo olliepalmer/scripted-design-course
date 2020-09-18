@@ -5,6 +5,7 @@ parent: Classes
 has_toc: false
 has_children: true
 draft: true
+grand_parent: 2019
 
 ---
 # Class 07 | 22 Nov 2019
@@ -32,7 +33,7 @@ In class, we ran peer-to-peer speed-feedback sessions so that the wisdom of the 
 
 PERSON A  | PERSON B  |  PERSON B | PERSON A
 --|--|--|--
-SHOW WORK  |  GIVE FEEDBACK | SHOW WORK  | GIVE FEEDBACK 
+SHOW WORK  |  GIVE FEEDBACK | SHOW WORK  | GIVE FEEDBACK
 ⏲️ 2 mins  | ⏲️ 3 mins   | ⏲️ 2 mins  | ⏲️ 3 mins
 
 ----

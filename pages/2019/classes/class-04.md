@@ -4,6 +4,8 @@ title: Class 04
 parent: Classes
 has_toc: false
 has_children: true
+grand_parent: 2019
+
 
 ---
 # Class 04 | 25 Oct 2019
@@ -93,7 +95,7 @@ Once you have a subject and genre, work together to write a scene from a film wi
 
 Please document your process well, with a script, drawings, photos of the process, etc.
 
-[Upload your film scene here](https://forms.gle/7TcV2zxLwqxRZ7sL8){: .btn .btn-purple}
+[Upload your film scene here](https://forms.gle/7TcV2zxLwqxRZ7sL8){: .button .button-purple}
 
 
 #### Extra help
@@ -112,7 +114,7 @@ If you are really struglling with this exercise in any way, please [email me](ma
 
 Please make sure you update your poster with the advice given in class this week. You can re-upload it to the drive here:
 
-[Upload your poster here](https://forms.gle/HumGQYYTrYDPw4Bt7){: .btn .btn-purple}
+[Upload your poster here](https://forms.gle/HumGQYYTrYDPw4Bt7){: .button .button-purple}
 
 
 
@@ -122,7 +124,7 @@ Please make sure you update your poster with the advice given in class this week
 
 Don't forget to also make your daily [rules-based videos](../classes/class-01.html#activity-3-rules-for-your-daily-film)!
 
-[Upload daily videos here](https://forms.gle/k2Excws5CPx5QRrN8){: .btn .btn-purple}
+[Upload daily videos here](https://forms.gle/k2Excws5CPx5QRrN8){: .button .button-purple}
 
 
 ----

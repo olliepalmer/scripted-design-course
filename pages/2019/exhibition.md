@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Exhibition
-permalink: /exhibition/
+parent: 2019
+permalink: /2019/exhibition/
 nav_order: 6
 has_toc: true
 has_children: false
