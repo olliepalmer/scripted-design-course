@@ -48,7 +48,7 @@ body {
 @font-face {
   font-family: 'manrope';
   src: url('/assets/fonts/Manrope-Regular.woff2') format('woff2'),
-       url('/assets/fonts/monofur_for_powerline-webfont.woff') format('woff');
+       url('/assets/fonts/Manrope-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -245,6 +245,10 @@ footer {
 
 footer p {
   color:white !important;
+}
+
+footer p a:hover {
+  color: $orangeutan;
 }
 
 p.text-small.text-grey-dk-000.mb-0,
