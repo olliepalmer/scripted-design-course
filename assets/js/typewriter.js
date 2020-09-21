@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded',function(event){
     // check if text isn't finished yet
     if (i < (text.length)) {
       // add next character to .site-header
-     document.querySelector(".site-header").innerHTML = '<a href="https://sd.olliepalmer.com" class="site-title lh-tight">' + text.substring(0, i+1) +'</a>'+'<span aria-hidden="true"></span>';
+     document.querySelector(".site-header .lh-tight").innerHTML = '<a href="https://sd.olliepalmer.com" class="site-title lh-tight">' + text.substring(0, i+1) +'</a>'+'<span aria-hidden="true"></span>';
 
       // wait for a while and call this function again for next character
       setTimeout(function() {

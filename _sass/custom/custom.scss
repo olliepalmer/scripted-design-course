@@ -267,10 +267,9 @@ input.js-search-input.search-input::placeholder {
 }
 
 
-// animated cursor etc
 span {
-  border-right: .5em solid #FF784F;
-  animation: caret 0.8s steps(1) infinite;
+  border-right: .05em solid #FF784F;
+  animation: caret 1s steps(1) infinite;
 }
 
 @keyframes caret {
@@ -278,8 +277,6 @@ span {
     border-color: transparent;
   }
 }
-
-
 // image masks - from https://cssduotone.com/
 
 :root {
