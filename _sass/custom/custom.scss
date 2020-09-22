@@ -332,7 +332,20 @@ span {
 // tables
 
 table, td, td, .table-wrapper {
-  border: none;
-  border-radius: none;
-  background: rgba(255,255,255,0);
+    border: none;
+    border-radius: 0px;
+    background: rgba(255,255,255,0);
+    box-shadow: none;
+}
+
+th {
+    background: #494949;
+}
+
+tr:nth-child(odd) {
+    background: rgba(255,255,255,0.1);
+}
+
+tr:nth-child(even) {
+    background: rgba(255,255,255,0.2);
 }
