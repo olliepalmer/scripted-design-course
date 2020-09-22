@@ -332,20 +332,25 @@ span {
 // tables
 
 table, td, td, .table-wrapper {
-    border: none;
-    border-radius: 0px;
-    background: rgba(255,255,255,0);
-    box-shadow: none;
+    border: none !important;
+    border-radius: 0px !important;
+    background: rgba(255,255,255,0) !important;
+    box-shadow: none !important;
 }
 
 th {
-    background: #494949;
+    background: #494949 !important;
 }
 
 tr:nth-child(odd) {
-    background: rgba(255,255,255,0.1);
+    background: rgba(255,255,255,0.1) !important;
 }
 
 tr:nth-child(even) {
-    background: rgba(255,255,255,0.2);
+    background: rgba(255,255,255,0.2) !important;
+}
+
+tr.emphasis {
+    background: white !important;
+    color: #ff784f !important;
 }
