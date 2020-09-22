@@ -28,4 +28,4 @@ This course is open-source, so anybody is free to take the content and use it in
 
 Students' work was shown at [V2_ Institute for the Unstable Media](https://v2.nl/events/film-exhibition-landscape-mode-1) in the exhibition 'Landscape Mode' (curated by Bregje Horsten, Yusuf Deniz, and Leonardo Landini) on 17 December 2019.
 
-[Practical information](/about/) [Student research](/research/) [Resources + references](/resources/) [Exhibition](/exhibition/)
+[Practical information](/2019/about/){: class="button"} [Student research](/2019/research/){: class="button"} [Resources + references](/resources/){: class="button"} [Exhibition](/2019/exhibition/){: class="button"}
