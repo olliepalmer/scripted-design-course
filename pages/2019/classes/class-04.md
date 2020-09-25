@@ -4,7 +4,7 @@ title: Class 04
 parent: Classes
 has_toc: false
 has_children: true
-grand_parent: 2019
+grand_parent: Scripted Design 2019
 
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-parent: 2019
+parent: Scripted Design 2019
 permalink: /research/
 nav_order: 3
 has_toc: false

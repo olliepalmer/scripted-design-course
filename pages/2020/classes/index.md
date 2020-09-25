@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Classes
-parent: 2020
+parent: Scripted Design 2020
 nav_order: 2
 has_toc: true
 has_children: true

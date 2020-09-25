@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Module information
-parent: 2019
+parent: Scripted Design 2019
 nav_order: 1
 has_children: true
 ---

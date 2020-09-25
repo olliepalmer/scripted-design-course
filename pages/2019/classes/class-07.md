@@ -5,7 +5,7 @@ parent: Classes
 has_toc: false
 has_children: true
 draft: true
-grand_parent: 2019
+grand_parent: Scripted Design 2019
 
 ---
 # Class 07 | 22 Nov 2019

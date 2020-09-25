@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Scripted Design
-permalink: 2020
+title: Scripted Design 2020
+permalink: /2020/
 has_toc: false
 has_children: true
 ---
