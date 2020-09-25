@@ -2,7 +2,7 @@
 layout: page
 title: Class 03
 permalink: /2019/classes/3
-parent: Classes
+parent: Classes 2019
 has_toc: true
 has_children: true
 grand_parent: 2019
