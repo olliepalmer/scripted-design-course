@@ -2,6 +2,7 @@
 layout: page
 title: Cutting films
 parent: Class 03
+permalink: /2019/classes/3/cutting
 grand_parent: Classes 2019
 has_toc: false
 has_children: false

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Classes 2019
-parent: Scripted Design 2019
 permalink: /2019/classes
+parent: Scripted Design 2019
 nav_order: 2
 has_toc: true
 has_children: true

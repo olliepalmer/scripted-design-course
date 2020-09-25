@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Class 06
+permalink: /2019/classes/6
 parent: Classes 2019
 has_toc: false
 has_children: true

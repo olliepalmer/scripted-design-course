@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Scripted Design 2019
+title: 2019
 permalink: /2019/
 ---
 
