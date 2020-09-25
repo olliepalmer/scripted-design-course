@@ -3,7 +3,7 @@ layout: page
 title: Module information
 parent: 2019
 permalink: /2019/about
-nav_order: 1
+nav_order: 2
 has_children: false
 ---
 

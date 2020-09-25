@@ -5,7 +5,7 @@
 layout: home
 title: 2019
 permalink: /2019/
-nav_order: 3
+nav_order: 1
 has_children: true
 ---
 
