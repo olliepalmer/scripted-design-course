@@ -28,4 +28,4 @@ New content is coming soon. Watch this space!
 
 Last years' course is available [here](/2019), and the student-curated exhibition is available [here]()
 
-[2019 course](/2019){: class="button"} [2020 course](/2020){: class="button"}
+[2019 course](/2019){: class="button"} [2020 course](/2020/about){: class="button"}
