@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 07
-parent: Classes
+parent: Classes 2019
 has_toc: false
 has_children: true
 draft: true

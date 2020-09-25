@@ -2,7 +2,7 @@
 layout: page
 title: Cutting films
 parent: Class 03
-grand_parent: Classes
+grand_parent: Classes 2019
 has_toc: false
 has_children: false
 

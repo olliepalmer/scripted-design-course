@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 03
-parent: Classes
+parent: Classes 2019
 has_toc: true
 has_children: true
 grand_parent: Scripted Design 2019

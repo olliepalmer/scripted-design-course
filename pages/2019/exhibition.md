@@ -2,6 +2,7 @@
 layout: page
 title: Exhibition
 parent: Scripted Design 2019
+permalink: /2019/exhibition
 nav_order: 6
 has_toc: true
 has_children: false
