@@ -2,10 +2,10 @@
 layout: page
 title: Class 03
 permalink: /2019/classes/3
-parent: Classes 2019
+parent: Classes
 has_toc: true
 has_children: true
-grand_parent: Scripted Design 2019
+grand_parent: 2019
 
 
 ---

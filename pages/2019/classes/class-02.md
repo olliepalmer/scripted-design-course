@@ -5,7 +5,7 @@ parent: Classes 2019
 permalink: /2019/classes/2
 has_toc: true
 has_children: false
-grand_parent: Scripted Design 2019
+grand_parent: 2019
 
 
 ---

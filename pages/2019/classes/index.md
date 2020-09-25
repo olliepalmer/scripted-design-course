@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Classes 2019
+title: Classes
 permalink: /2019/classes
 parent: 2019
 nav_order: 2
