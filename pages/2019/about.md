@@ -2,7 +2,6 @@
 layout: page
 title: Module information
 parent: 2019
-permalink: /2019/about/
 nav_order: 1
 has_children: true
 ---
