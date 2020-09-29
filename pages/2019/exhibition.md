@@ -2,7 +2,7 @@
 layout: page
 title: Exhibition
 parent: 2019
-permalink: /2019/exhibition/
+permalink: /2019/exhibition
 nav_order: 6
 has_toc: true
 has_children: false
@@ -13,7 +13,7 @@ has_children: false
 
 # Exhibition
 
-The work of the students from this course was exhibited at V2\_ Lab of the Unstable Media on 17 December 2019 in an exhibition entitled ['Landscape Mode'](https://v2.nl/events/film-exhibition-landscape-mode-1) (named after the first constraint used on the course). The exhibition was curated by [Bregje Horsten](https://www.bregjehorsten.com), Yusuf Deniz, and [Leonardo Landoni](https://www.leonardolandoni.com).
+The work of the students from this course was exhibited at [V2\_ Lab of the Unstable Media](https://v2.nl) on 17 December 2019 in an exhibition entitled ['Landscape Mode'](https://v2.nl/events/film-exhibition-landscape-mode-1) (named after the first constraint used on the course). The exhibition was curated by [Bregje Horsten](https://www.bregjehorsten.com), Yusuf Deniz, and [Leonardo Landoni](https://www.leonardolandoni.com).
 
 <video autoplay loop width="100%">
   <source src="/assets/landscapemode.mp4" type="video/mp4">

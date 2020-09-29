@@ -2,7 +2,7 @@
 layout: page
 title: Research
 parent: 2019
-permalink: /research/
+permalink: /2019/research
 nav_order: 3
 has_toc: false
 ---

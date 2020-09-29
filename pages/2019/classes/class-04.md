@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Class 04
-parent: Classes
+permalink: /2019/classes/4
+parent: Classes 2019
 has_toc: false
 has_children: true
 grand_parent: 2019

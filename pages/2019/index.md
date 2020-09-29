@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Scripted Design
-parent: 2019
-permalink: /2019
+title: 2019
+permalink: /2019/
+nav_order: 3
+has_children: true
 ---
 
 

@@ -5,6 +5,7 @@
 layout: home
 title: Scripted Design
 has_toc: false
+nav_order: 1
 ---
 
 

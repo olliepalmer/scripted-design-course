@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 2019
-permalink: /2019/
-nav_order: 2
+title: Course information
+parent: 2019
+permalink: /2019/about
+nav_order: 3
 has_children: true
 ---
 

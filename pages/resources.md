@@ -3,12 +3,25 @@ layout: page
 title: Resources
 permalink: /resources
 has_toc: true
-nav_order: 5
+nav_order: 4
 ---
 
 
 
 ## Technical resources
+
+### Shooting video
+
+I recommend you shoot videos for this course on a smartphone, because the quality of most smartphones is good, you're probably comfortable using it, and it's the camera that you will have on you most of the time.
+
+## File storage
+
+You will need plenty of storage for this course - you'll be shooting one short film per day for several months. If your phone has limited memory, there are several ways to deal with this:
+
+- Clear all of the stuff you don't need off your phone. This sounds obvious, but sometimes there are apps or films or photos or other things on phones that take up a lot of space.
+- Use a cloud provider to store your photos and videos remotely (meaning you can delete them from your phone). Services like Google Drive/Photos and Dropbox offer a free tier which enable you to store photos and videos online to download later.
+  - If you are happy for your videos to become part of a collective resource, and publicly accessible for use by anyone, upload them to the Google Drive link provided here [XXX](#linktofollow).
+  - Google Photos can offload the photos and videos on your phone, so that you're able to view and download them later. It's free, and works well; the price, however, is privacy, as Google will scan every photo and video to infer things about your life.
 
 
 

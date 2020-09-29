@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Class 07
-parent: Classes
+permalink: /2019/classes/7
+parent: Classes 2019
 has_toc: false
 has_children: true
-draft: true
 grand_parent: 2019
 
 ---
