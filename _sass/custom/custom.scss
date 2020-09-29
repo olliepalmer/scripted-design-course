@@ -328,6 +328,13 @@ span {
     z-index:             1;
   }
 
+.img-wrapper:hover {
+  background: none;
+}
+.img-wrapper img:hover {
+  filter: none;
+}
+
 
 // tables
 
