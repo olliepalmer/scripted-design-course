@@ -302,6 +302,10 @@ span {
   overflow:            hidden;
   padding:             var(--spacing);
   position:            relative;
+  -webkit-transition: background-color 0.5s ease;
+  -moz-transition: background-color 0.5s ease;
+  -o-transition: background-color 0.5s ease;
+  transition: background-color 0.5s ease;
 }
 .img-wrapper img {
     filter:              grayscale(100%) contrast(1) blur(var(--blur));
