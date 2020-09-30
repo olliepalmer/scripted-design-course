@@ -20,3 +20,5 @@ These are some guidelines for this course, as heard in [the Introduction episode
 5. Rules help us make things.
 6. If in doubt, make.
 7. Ask for feedback. Ask colleagues, peers, friends. Asking for and giving feedback is one of the best things you can do creatively – mostly because it forces you to formulate ideas and explain things in a way which makes sense for other people.
+
+[Dive into the course!](/2020/classes/w00e00){: .button}
