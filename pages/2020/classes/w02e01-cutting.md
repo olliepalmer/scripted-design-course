@@ -3,7 +3,7 @@ layout: page
 title: Cutting videos
 parent: Week 2 Episode 1
 grand_parent: Classes
-permalink: /2020/classes/w02e01-cutting
+permalink: /2020/classes/w02e01/cutting
 has_toc: true
 has_children: false
 
