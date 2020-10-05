@@ -4,7 +4,7 @@ title: Classes
 parent: 2020
 permalink: /2020/classes
 nav_order: 2
-has_toc: false
+has_toc: true
 has_children: true
 ---
 
@@ -19,15 +19,3 @@ You can subscribe via:
 ...or by manually adding the [RSS Feed](https://anchor.fm/s/37d326c4/podcast/rss) to your favourite podcast app.
 
 ## Want to dive in and go straight to the podcast? Start with [this episode](/2020/classes/w00e00)!
-
-----
-
-# Episodes
-
-[Introduction](/2020/classes/w00e00)
-
-Week 1: Rules and Instructions
-
-- [Episode 1](/2020/classes/w01e01)
-- [Episode 2](/2020/classes/w01e02)
-- [Episode 3](/2020/classes/w01e03)
