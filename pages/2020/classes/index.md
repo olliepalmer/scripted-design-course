@@ -23,6 +23,7 @@ Want to dive straight in? Start with [the introduction episode](/2020/classes/w0
 - [Week 1 Episode 3](/2020/classes/w01e03)
 - [Week 2 Episode 1](/2020/classes/w02e01)
 - [Week 2 Episode 2](/2020/classes/w02e02)
+- [Week 2 Episode 3](/2020/classes/w02e03)
 
 
 ---
