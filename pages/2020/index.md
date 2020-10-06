@@ -15,7 +15,8 @@ nav_order: 2
 
 ## An open-access course at the Masters Institute of Visual Cultures at AKV St Joost
 
-## [Want to take this course? Start here](/2020/classes/w00e00){: .button }
+## [Want to take this course? Start here](/2020/classes/w00e00){: .button } [More information](/2020/about){: .button }
+
 
 <div class="img-wrapper">
 <img src="/assets/net-int1.jpg" alt="Still from the film Network/Intersect, by Ollie Palmer. The image depicts a person wearing an orange wig on an escalator.">
