@@ -15,7 +15,7 @@ nav_order: 1
 
 ## [Want to take this course? Start here](/2020/classes/w00e00){: .button } 
 
-[More information](/2020/about#course-overview){: .button} [All podcast episodes](/2020/classes/){: .button} [See last year's exhibition](/2019/exhibition){: .button}
+[More information](/2020/about#course-overview){: .button}    [All podcast episodes](/2020/classes/){: .button}   [See last year's exhibition](/2019/exhibition){: .button}
 
 <div class="img-wrapper">
 <img src="/assets/net-int1.jpg" alt="Still from the film Network/Intersect, by Ollie Palmer. The image depicts a person wearing an orange wig on an escalator.">
