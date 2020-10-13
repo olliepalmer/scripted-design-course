@@ -126,7 +126,10 @@ a.button {
   background: white !important;
   color: $orangeutan !important;
   padding: 10px !important;
-  line-height: 2.6em;
+  background: white;
+  color: $orangeutan !important;
+  display: inline-block;
+  margin-right: 0.5em;
 }
 
 a.button:hover {
@@ -228,17 +231,6 @@ h3:after {
   }
 }
 
-.button a {
-  padding: 10px;
-  background: white;
-  color: $orangeutan !important;
-}
-
-.button a:hover {
-  padding: 100px;
-  background-color: $orangeutan;
-  color: white;
-}
 
 footer {
   color: white;
