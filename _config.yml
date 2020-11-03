@@ -27,8 +27,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _olliepalmer
 github_username:  olliepalmer
-footer_content: >-
-  Copyright &copy; 2019-2020 Ollie Palmer. Site design and content is distributed with an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license</a>; student work remains their copyright. This site is built with <a href="https://jekyllrb.com/">Jekyll</a> using <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>. Source code is available on <a href="https://github.com/olliepalmer/scripted-design-course/">GitHub</a>.
 
 
 # Build settings
