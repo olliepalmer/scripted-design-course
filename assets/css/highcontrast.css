@@ -1,0 +1,91 @@
+body {
+    background: white !important;
+    color: black !important;
+}
+
+h1, h2, h3, h4, h5, p, ul, li, ol, a {
+    color: black !important;
+}
+
+a.button {
+    color: black !important;
+    border: 3px dashed black;
+}
+
+a.button:hover {
+    background: black !important;
+    color: white !important;
+    border: 3px dashed white;
+}
+
+.side-bar, .site-header, .site-header a {
+    background: black !important;
+    color: white !important;
+}
+
+.side-bar a {
+    color: white !important;
+}
+
+.nav-list .nav-list-item .nav-list-link.active, .nav-list .nav-list-item .nav-list-link:hover {
+    background: white;
+    color: black !important;
+}
+
+li.nav-list-item.active a, ::selection {
+    color: black !important;
+    background: orange;
+}
+
+h1::after {
+    position: absolute;
+    height: 0px;
+    margin: 0 auto;
+    content: '';
+    left: 0;
+    right: 0;
+    background-color: white !important;
+    left: 0;
+    bottom: -.5em;
+}
+
+.search {
+    background: white;
+    border-bottom: 2px solid black;
+}
+
+input#search-input {
+    background: white !important;
+}
+
+.main-content a:hover {
+    color: white !important;
+    background-color: black !important;
+}
+
+.img-wrapper {
+  background-color: black !important;
+}
+
+.img-wrapper:hover {
+  background: black;
+}
+
+.search-results {
+  background: white;
+  color: black;
+}
+
+.search-input:focus+.search-label .search-icon, .search-result-doc .search-result-icon, .search-result-previews, span.search-result-rel-url, input#search-input, .search-label .search-icon {
+  color: black !important;
+}
+
+.search-result.active, .search-result:hover {
+  background: black !important;
+  color: white;
+}
+
+li.nav-list-item.active a, ::selection {
+  color: white !important;
+  background: black !important;
+}
