@@ -33,6 +33,11 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 
+aux_links:
+  "high contrast mode":
+    - "highContrast()"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
