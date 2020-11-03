@@ -23,4 +23,8 @@ function highContrast() {
   if (hc) document.body.appendChild(link);
   if (!hc) document.querySelector('link[href$="https://sd.olliepalmer.com/assets/css/highcontrast.css"]').remove();
 }
+
+
+document.getElementsByTagName("footer")[0].innerHTML = "<a onclick='highContrast()'>Enable high contrast mode?</a>";
+
 </script>
