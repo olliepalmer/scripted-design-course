@@ -2,7 +2,7 @@
 //// Typography
 ////
 
-// $body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+$body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
 //$mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
 //$root-font-size: 16px;         // Base font-size for rems
 //$body-line-height: 1.4;
@@ -333,7 +333,7 @@ span {
 }
 
 iframe {
-  border: none;
+  border: 2px dashed white;
 }
 
 // tables
@@ -360,4 +360,93 @@ tr:nth-child(even) {
 tr.emphasis {
     background: white !important;
     color: #ff784f !important;
+}
+
+// de-fudging the new just the docs
+
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+  background: $orangeutan;
+}
+
+a {
+  color: white !important;
+}
+
+::selection {
+  color: $orangeutan;
+  background: white;
+  opacity: 1;
+}
+
+.site-title:hover {
+  background: none;
+}
+
+.side-bar, .site-header {
+  border: none;
+}
+
+.main-content ol > li::before {
+  display: none;
+}
+
+.search-label .search-icon {
+  color: white;
+}
+
+.main-header, .search-input-wrap {
+  background: $orangeutan;
+  border: none;
+}
+
+input#search-input {
+  background: $orangeutan;
+  caret-color: white;
+}
+
+.search-active .search-input {
+  color: white;
+  background: $orangeutan;
+}
+
+.search-results {
+  background: $orangeutan;
+}
+.search-input:focus + .search-label .search-icon, .search-result-doc .search-result-icon, span.search-result-rel-url, .search-result-previews {
+  color: white;
+}
+
+.search-results-list-item {
+  border-bottom: 1px dotted white;
+}
+
+.search-result:hover, .search-result.active {
+  background: $greygoose;
+}
+
+.main-content .anchor-heading svg, .main-content .anchor-heading svg:hover{
+  color: white;
+  display: none;
+}
+
+.main-content ul > li::before {
+  color: white;
+  content: "-";
+}
+
+a:not([class]) {
+    text-decoration: none;
+    background-image: linear-gradient(white 0%, white 100%) !important;
+    background-repeat: repeat-x;
+    background-position: 0 100%;
+    background-size: 1px 1px;
+  }
+
+::placeholder, .search-icon {
+  color: white;
+  opacity: 0.5;
+}
+
+h1 {
+  margin-bottom: 1em !important;
 }

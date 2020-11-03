@@ -17,7 +17,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Scripted Design
 email: om.palmer@avans.nl
 description: >- # this means to ignore newlines until "baseurl:"
@@ -30,27 +29,9 @@ twitter_username: _olliepalmer
 github_username:  olliepalmer
 
 # Build settings
-theme: "just-the-docs"
+theme: just-the-docs
 plugins:
   - jekyll-feed
-
-footer_content:
-  "Copyright &copy; 2019-20 Ollie Palmer. Site content distributed under an
-  <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license</a>
-  (you are free to reuse content as you like); student work remains their intellectual property."
-
-search_enabled: true
-
-atom:
-  buildCommand:
-    - bundle exec jekyll build
-
-
-# additional links at top-right
-# aux_links:
-#   "Just the Docs on GitHub":
-#     - "//github.com/pmarsceill/just-the-docs"
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
