@@ -452,3 +452,15 @@ a:not([class]) {
 h1 {
   margin-bottom: 1em !important;
 }
+
+p.centred {
+  text-align: center;
+  font-size: 1.5em;
+  border: 5px dashed white;
+  padding: 2rem;
+}
+
+span#adj1, span#adj2, span#makeit {
+  font-size: 2em;
+  margin: 0.1em;
+}
