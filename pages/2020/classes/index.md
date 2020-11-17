@@ -49,6 +49,13 @@ Want to dive straight in? Start with [the introduction episode](/2020/classes/w0
 
 - [Week 5 Episode 1](/2020/classes/w05e01)
 - [Week 5 Episode 2](/2020/classes/w05e02)
+- [Week 5 Episode 3](/2020/classes/w05e03)
+
+### Week 6: Combinations and constraints
+
+- [Week 6 Episode 1](/2020/classes/w06e01)
+- [Week 6 Episode 2](/2020/classes/w06e02)
+- [Week 6 Episode 3](/2020/classes/w06e03)
 
 
 ---
