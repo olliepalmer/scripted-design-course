@@ -31,7 +31,7 @@ Want to dive straight in? Start with [the introduction episode](/2020/classes/w0
 - [Week 2 Episode 1](/2020/classes/w02e01)
 - [Week 2 Episode 2](/2020/classes/w02e02)
 - [Week 2 Episode 3](/2020/classes/w02e03)
-- [Week 2 Episode 4 - Bonus!](/2020/classes/w02e03)
+- [Week 2 Episode 4 - Bonus!](/2020/classes/w02e04)
 
 ### Week 3: Memory
 
@@ -44,6 +44,7 @@ Want to dive straight in? Start with [the introduction episode](/2020/classes/w0
 - [Week 4 Episode 1](/2020/classes/w04e01)
 - [Week 4 Episode 2](/2020/classes/w04e02)
 - [Week 4 Episode 3](/2020/classes/w04e03)
+- [Week 4 Episode 4 – Bonus!](/2020/classes/w04e04)
 
 ### Week 5: Styles
 
