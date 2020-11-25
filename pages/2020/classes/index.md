@@ -61,6 +61,12 @@ Want to dive straight in? Start with [the introduction episode](/2020/classes/w0
 - [Week 7 Episode 2](/2020/classes/w07e02)
 - [Week 7 Episode 3](/2020/classes/w07e03)
 
+### Week 8: Ordering
+
+- [Week 8 Episode 1](/2020/classes/w08e01)
+- [Week 8 Episode 2](/2020/classes/w08e02)
+- [Week 8 Episode 3](/2020/classes/w08e03)
+
 
 ---
 
