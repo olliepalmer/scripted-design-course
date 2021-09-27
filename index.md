@@ -13,9 +13,9 @@ nav_order: 1
 
 ## An open-access course at the Masters Institute of Visual Cultures at AKV St Joost, taught via podcast
 
-## [Want to take this course? Start here](/2020/classes/w00e00){: .button } 
+## [Want to take this course? Start here](/2021/classes/w00e00){: .button }
 
-[More information](/2020/about#course-overview){: .button}    [All podcast episodes](/2020/classes/){: .button}   [See last year's exhibition](/2019/exhibition){: .button}
+[More information](/2021/about#course-overview){: .button}    [All podcast episodes](/2021/classes/){: .button}   [See 2019's exhibition](/2019/exhibition){: .button}
 
 <div class="img-wrapper">
 <img src="/assets/net-int1.jpg" alt="Still from the film Network/Intersect, by Ollie Palmer. The image depicts a person wearing an orange wig on an escalator.">
@@ -25,4 +25,4 @@ nav_order: 1
 
 This course aims to immerse students in the processes and techniques of film-based visual storytelling, whilst introducing students to Oulipian-inspired constrained design processes.
 
-The 2020 course is an [8-week podcast series](/2020/classes), with 3 episodes per week, each containing guided exercises for you to do in your own time. All materials are open access and open source, so anybody is free to take the content of this course and use it in their own practice. Please note, students retain ownership and copyright of their own work.
+The 2021 course is an [8-week podcast series](/2021/classes), with 3 episodes per week, each containing guided exercises for you to do in your own time. All materials are open access and open source, so anybody is free to take the content of this course and use it in their own practice. Please note, students retain ownership and copyright of their own work.
