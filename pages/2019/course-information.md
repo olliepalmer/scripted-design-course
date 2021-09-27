@@ -14,6 +14,12 @@ has_children: true
 {:toc}
 
 
+# Note
+
+This is information for 2020's course, kept here for archival purposes. If you are *currently* taking the course, please head to the page for 2021 as the information below has changed.
+
+## [Click here for 2021](/2021){: .button }
+
 
 # Course overview
 ![Still from Network/Intersect (2016), dir. Ollie Palmer](/assets/net-int2.jpg)
