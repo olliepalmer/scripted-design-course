@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources
 has_toc: true
-nav_order: 4
+nav_order: 5
 ---
 
 
