@@ -16,6 +16,17 @@ Want to dive straight in? Start with [the introduction episode](/2021/classes/w0
 
 ---
 
+## Subscribe
+
+You can listen to the podcast on this website, or subscribe via:
+
+[Spotify](https://open.spotify.com/show/3sYD3KyPJXnIHUY2m2uFcy){: .button} [Apple Podcasts](https://podcasts.apple.com/nl/podcast/scripted-design/id1533696064?l=en){: .button} [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zN2QzMjZjNC9wb2RjYXN0L3Jzcw==){: .button} [Breaker](https://breaker.audio/scripted-design){: .button} [Pocket Casts](https://pca.st/h40ivs5f){: .button} [Anchor.fm](https://anchor.fm/scripteddesign){: .button} [RadioPublic](https://radiopublic.com/scripted-design-WaxpdP){: .button} [Castbox](https://castbox.fm/channel/Scripted-Design-id3371338){: .button}
+
+...or by manually adding the [RSS Feed](https://anchor.fm/s/37d326c4/podcast/rss) to your favourite podcast app.
+
+
+---
+
 ## Episodes
 
 - [Introduction](/2020/classes/w00e00/)
@@ -70,9 +81,3 @@ Want to dive straight in? Start with [the introduction episode](/2021/classes/w0
 
 
 ---
-
-You can listen to the podcast on this website, or subscribe via:
-
-[Spotify](https://open.spotify.com/show/3sYD3KyPJXnIHUY2m2uFcy){: .button} [Apple Podcasts](https://podcasts.apple.com/nl/podcast/scripted-design/id1533696064?l=en){: .button} [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zN2QzMjZjNC9wb2RjYXN0L3Jzcw==){: .button} [Breaker](https://breaker.audio/scripted-design){: .button} [Pocket Casts](https://pca.st/h40ivs5f){: .button} [Anchor.fm](https://anchor.fm/scripteddesign){: .button} [RadioPublic](https://radiopublic.com/scripted-design-WaxpdP){: .button} [Castbox](https://castbox.fm/channel/Scripted-Design-id3371338){: .button}
-
-...or by manually adding the [RSS Feed](https://anchor.fm/s/37d326c4/podcast/rss) to your favourite podcast app.
