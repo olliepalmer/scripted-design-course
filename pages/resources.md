@@ -42,7 +42,8 @@ You will need plenty of storage for this course - you'll be shooting one short f
   [blackmagicdesign.com/products/davinciresolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - **FFmpeg**  
   All computer platforms (free). A Swiss Army knife for formatting, splicing, converting video and audio files. Works via the command-line interface (e.g. Terminal on Mac) but is incredibly powerful. Want to split audio and video? Make a long video from lots of short videos? Extract all of the frames from a film? Use FFmpeg. [ffmpeg.org](https://www.ffmpeg.org)
-
+- **V2Art**  
+  https://play.google.com/store/apps/details?id=com.mobile.bizo.videofilters&hl=en&gl=US / ios: https://apps.apple.com/us/app/v2art-video-effects/id1473002904
 
 
 
