@@ -49,6 +49,24 @@ You will need plenty of storage for this course - you'll be shooting one short f
 
 ---
 
+## Editing audio
+
+### Recording audio
+
+- [Guide to producing audio](https://medium.com/@hannah_rfh/how-to-super-quick-diy-podcasting-for-museums-other-nonprofits-closed-by-covid-19-82f5e95691f6) - has lots of tips about equipment, recording, editing
+- [Free audio resources](https://medium.com/podcast-101/40-free-audio-resources-to-help-make-your-podcast-sound-great-9731ea24c657) - a list of 40 free audio resources to help you record, edit and mix. Some of the links are podcast-specific, but many are for general audio production.
+
+### Editing, post-production
+
+
+- [Auphonic](https://auphonic.com/) - this is a tool you can use to balance sound, and remove hums and hisses and so on. You can upload files, clean them up and then download them again very easily, and by creating an account you can clean up 2hrs of audio per month. I’d recommend using this tool for cleaning up all spoken audio, as it does all of the crucial ‘normalising’ (making sure that the sound is at the right level, and won’t be too loud or quiet) for you too.
+- [Audacity](https://www.audacityteam.org/) is a free tool for editing audio. It’s open source and works across platforms.
+- [Ffmpeg](https://www.ffmpeg.org/) is a command-line tool for converting audio and video between formats, joining files together, splicing, extracting audio from video, etc. You can translate between any formats – you have to master the command line, but it’s free and anything you want to do is only a Google away.
+- [GarageBand](https://www.apple.com/mac/garageband/) is free if you have a Mac, and is pretty good for audio production. It’s more fully featured than you might think.
+- [Adobe Audition](https://www.adobe.com/products/audition.html) is included in many peoples’ Creative Cloud bundles. It’s a very powerful audio production platform.
+
+---
+
 ## Bibliography / useful references
 
 
