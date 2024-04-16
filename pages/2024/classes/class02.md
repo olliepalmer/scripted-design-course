@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 2 Sensation and translation
-parent: Podcast
+parent: Classes
 grand_parent: 2024
 permalink: /2024/classes/class2
 has_toc: true
