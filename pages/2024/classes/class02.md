@@ -95,6 +95,7 @@ In class, we discussed:
 
 - The film Koyaanisquatsi, in reference to the NYC crowd scenes
 - The work of artist Christian Marclay
-- The project Friction Atlas by Paolo Patelli and Giuditta Vendrame
+- The project Friction Atlas by Paolo Patelli and
+Giuditta Vendrame
 
 If you liked these exercises, consider listening to weeks 3-4 of the course podcast. There are a few supplementary exercises you might enjoy!
