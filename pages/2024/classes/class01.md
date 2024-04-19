@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Class 1: Introduciton
-parent: Classes
+title: Class 1 Introduction
+parent: Podcast
 grand_parent: 2024
 permalink: /2024/classes/class1
 has_toc: true
