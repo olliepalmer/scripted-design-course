@@ -9,11 +9,20 @@ nav_order: 1
 ---
 
 
-# Welcome to Scripted Design 2020
+# Welcome to Scripted Design
 
-## An open-access course at the Masters Institute of Visual Cultures at AKV St Joost, taught via podcast
+## An open-access course at the Masters Institute of Visual Cultures at AKV St Joost
 
-## [Want to take this course? Start here](/2021/classes/w00e00){: .button }
+This course has been run four times so far:
+
+## [2024: in person only](/2024){: .button }
+
+## [2021: hybrid / podcast format](/2021){: .button } [2020: podcast format](/2021){: .button }
+
+## [2020: in person / podcast hybrid](/2020)
+
+## [2019: in person only](/2019)
+
 
 [More information](/2021/about#course-overview){: .button}    [All podcast episodes](/2021/classes/){: .button}   [See 2019's exhibition](/2019/exhibition){: .button}
 
