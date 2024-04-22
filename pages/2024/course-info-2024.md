@@ -17,7 +17,7 @@ has_toc: false
 
 <div class="img-wrapper"><img src="/assets/sd2024plan.png" alt="Class plan 2024. A sketchbook page with the entire class plan."></div>
 
-> *Class plan, 2024*
+> *Class plan, 2024.*
 
 
 # Course overview
