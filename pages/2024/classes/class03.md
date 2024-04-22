@@ -197,5 +197,12 @@ In class, we discussed:
 - The films Tetsuo the Iron Man, Dogville, Climax
 - The film essay series [Every Frame a Painting](https://www.youtube.com/@everyframeapainting) - great for film-making inspiration
 - [The Editing Podcast](https://www.youtube.com/@EditingPodcast) - great for film editing inspiration
+- Daniels' presentation at SXSW: [Why We Tell the Stories We Tell](https://www.youtube.com/watch?v=nBANXz79fDg&t=466s&pp=ygUMZGFuaWVscyBzeHN3) - a masterclass in defining purpose in creative work, recommended for all students
 
 If you liked these exercises, consider listening to [weeks 5-8 of the course podcast](https://sd.olliepalmer.com/2021/classes/w05e01). There are a few supplementary exercises you might enjoy!
+
+---
+
+## Other classes
+
+[Class 1](/2024/classes/class1){: .button} [Class 2](/2024/classes/class2){: .button}

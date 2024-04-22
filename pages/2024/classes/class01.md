@@ -78,3 +78,9 @@ Examples of previous films made in this class can be found on the [Exhibition](h
 Ollie gave a presentation on Scripted Design, similar to this talk at Central St Martins:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YbtA8ZNl3BE?si=QXh3WIeqA_xXNF6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## Next class
+
+[Class 2](/2024/classes/class2){: .button} [Class 3](/2024/classes/class3){: .button}

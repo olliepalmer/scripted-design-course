@@ -99,3 +99,9 @@ In class, we discussed:
 Giuditta Vendrame
 
 If you liked these exercises, consider listening to weeks 3-4 of the course podcast. There are a few supplementary exercises you might enjoy!
+
+---
+
+## Other classes
+
+[Class 1](/2024/classes/class1){: .button} [Class 3](/2024/classes/class3){: .button}
