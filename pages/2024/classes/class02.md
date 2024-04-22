@@ -10,7 +10,7 @@ has_children: false
 
 ---
 
-# Class 2
+# Class 2: Sensation and translation
 {: .no_toc}
 
 ## 15 April 2024

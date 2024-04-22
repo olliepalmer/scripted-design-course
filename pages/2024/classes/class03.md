@@ -10,7 +10,7 @@ has_children: false
 
 ---
 
-# Class 2
+# Class 3: Styles and cut-up
 {: .no_toc}
 
 ## 22 April 2024
