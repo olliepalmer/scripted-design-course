@@ -14,7 +14,7 @@ nav_order: 1
 
 # An open-access course at the Masters Institute of Visual Cultures at St Joost
 
-# From 2026 onwards, this course has a new home here: [Scripted Design 2026](https://olliepalmer.notion.site/Scripted-Design-2026-2ee2ceb6078d80aa8556fb30ce98dfa1){: .button}
+# [From 2026 onwards, this course has a new home >> here <<](https://olliepalmer.notion.site/Scripted-Design-2026-2ee2ceb6078d80aa8556fb30ce98dfa1){: .button}
 
 <div class="img-wrapper">
 <img src="/assets/time-frames.still006.png" alt="Still from the film Time Frames, by Ollie Palmer.">
