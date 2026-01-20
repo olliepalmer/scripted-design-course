@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Course information
-parent: 2021
-permalink: /2021/about
+parent: 2026
+permalink: /2026/about
 nav_order: 1
 has_children: true
 has_toc: false
@@ -34,7 +34,7 @@ Throughout the course, students must document their process, present their works
 
 The course is taught via a combination of audio podcasts (which are also transcribed) as well as weekly meetings where students discuss their work and provide feedback to one another.
 
-Anybody is able to listen to the podcasts and access course materials via this website. However, only students of the course at MIVC will have access to the weekly classes, feedback, and catch-up sessions, and be assessed on 11 December 2021.
+Anybody is able to listen to the podcasts and access course materials via this website. However, only students of the course at MIVC will have access to the weekly classes, feedback, and catch-up sessions, and be assessed on 21 April 2026.
 
 
 ---
@@ -44,7 +44,7 @@ Anybody is able to listen to the podcasts and access course materials via this w
 
 ## Teaching and participation
 
-Formal tuition is taught via [podcast](/2021/classes), which you can subscribe to via [Spotify](https://open.spotify.com/show/3sYD3KyPJXnIHUY2m2uFcy), [Apple Podcasts](https://podcasts.apple.com/nl/podcast/scripted-design/id1533696064?l=en), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zN2QzMjZjNC9wb2RjYXN0L3Jzcw==), [Breaker](https://breaker.audio/scripted-design), [Pocket Casts](https://pca.st/h40ivs5f), any other podcast provider - or listen via the embedded players on this site. There are eight weeks of podcasts, with three podcast episodes released per week. Each episode lasts up to 20 minutes, and most activities can be done in real-time whilst you are listening. During weeks 3-4 you will be learning film editing, so it may take you a little longer.
+Formal tuition is taught via [podcast](/2026/classes), which you can subscribe to via [Spotify](https://open.spotify.com/show/3sYD3KyPJXnIHUY2m2uFcy), [Apple Podcasts](https://podcasts.apple.com/nl/podcast/scripted-design/id1533696064?l=en), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zN2QzMjZjNC9wb2RjYXN0L3Jzcw==), [Breaker](https://breaker.audio/scripted-design), [Pocket Casts](https://pca.st/h40ivs5f), any other podcast provider - or listen via the embedded players on this site. There are eight weeks of podcasts, with three podcast episodes released per week. Each episode lasts up to 20 minutes, and most activities can be done in real-time whilst you are listening. During weeks 3-4 you will be learning film editing, so it may take you a little longer.
 
 If you are enrolled in the course at MIVC, there are also weekly online meet-ups where we will critique each others' work and discuss the exercises. You will be expected to upload work from the exercises in time for each class. It is a module requirement for MIVC students to attend at least 80% of these meet-ups.
 
