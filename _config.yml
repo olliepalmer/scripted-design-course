@@ -26,8 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _olliepalmer
-github_username:  olliepalmer
-
+github_username: olliepalmer
 
 # Build settings
 theme: just-the-docs
@@ -53,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+current_year: 2026
+years: [2019, 2020, 2021, 2024, 2026]
