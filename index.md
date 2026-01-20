@@ -3,15 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Scripted Design
+title: Scripted Design {{site.current_year}}
 has_toc: false
 nav_order: 1
 ---
 
+{% assign year = site.current_year %}
 
-# Welcome to Scripted Design
+# Welcome to Scripted Design {{year}}
 
-## An open-access course at the Masters Institute of Visual Cultures at AKV St Joost
+## An open-access course at the Masters Institute of Visual Cultures at St Joost
 
 This course has been run four times so far:
 
@@ -34,4 +35,4 @@ This course has been run four times so far:
 
 This course aims to immerse students in the processes and techniques of film-based visual storytelling, whilst introducing students to Oulipian-inspired constrained design processes.
 
-The 2021 course is an [8-week podcast series](/2021/classes), with 3 episodes per week, each containing guided exercises for you to do in your own time. All materials are open access and open source, so anybody is free to take the content of this course and use it in their own practice. Please note, students retain ownership and copyright of their own work.
+The 2021 course is an [8-week podcast series](/2026/classes), with 3 episodes per week, each containing guided exercises for you to do in your own time. All materials are open access and open source, so anybody is free to take the content of this course and use it in their own practice. Please note, students retain ownership and copyright of their own work.
