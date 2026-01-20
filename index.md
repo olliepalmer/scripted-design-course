@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Scripted Design {{ site.current_year }}
+title: Scripted Design
 has_toc: false
 nav_order: 1
 ---
