@@ -7,7 +7,7 @@ title: 2026
 permalink: /2026/
 has_toc: false
 has_children: true
-nav_order: 3
+nav_order: 1
 ---
 
 

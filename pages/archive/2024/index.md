@@ -5,10 +5,11 @@
 layout: home
 title: 2024
 year: 2024
+parent: Archive
 permalink: /2024/
 has_toc: false
 has_children: true
-nav_order: 2
+nav_order: 10
 ---
 
 

@@ -18,7 +18,7 @@ nav_order: 1
 <img src="/assets/time-frames.still006.png" alt="Still from the film Time Frames, by Ollie Palmer.">
 </div>
 
-> *Still from [Time Frames](https://olliepalmer.com/time-frames) (dir. Ollie Palmer, 2023)*
+> *Still from [Time Frames](https://olliepalmer.com/time-frames) (dir. Ollie Palmer, 2024)*
 
 This course aims to immerse students in the processes and techniques of film-based visual storytelling, whilst introducing students to Oulipian-inspired constrained design processes.
 
