@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Scripted Design
+title: Home
 has_toc: false
 nav_order: 1
 ---
@@ -24,18 +24,10 @@ This course aims to immerse students in the processes and techniques of film-bas
 
 The 2026 course consists of classes where we meet up in person, which are supplemented by a [podcast series](/2026/classes), with 3 episodes per week, each containing guided exercises for you to do in your own time. All materials are open access and open source, so anybody is free to take the content of this course and use it in their own practice. Please note, students retain ownership and copyright of their own work.
 
+From 2026 onwards, this course has a new home:
 
-## Archive
-
-This course has been run four times in the past:
-
-## [2024: in person only](/2024){: .button }
-
-## [2021: hybrid / podcast format](/2021){: .button } [2020: podcast format](/2021){: .button }
-
-## [2020: in person / podcast hybrid](/2020)
-
-## [2019: in person only](/2019)
+[Scripted Design 2026](https://olliepalmer.notion.site/Scripted-Design-2026-2ee2ceb6078d80aa8556fb30ce98dfa1){: .button}
 
 
-[More information](/2021/about#course-overview){: .button}    [All podcast episodes](/2021/classes/){: .button}   [See 2019's exhibition](/2019/exhibition){: .button}
+
+[More information](/2026/about#course-overview){: .button}    [All podcast episodes](/2026/classes/){: .button}   [See 2019's exhibition](/2019/exhibition){: .button}
